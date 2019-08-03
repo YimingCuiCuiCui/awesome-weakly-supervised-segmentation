@@ -4,7 +4,8 @@
 ---
 ## 2019
 - [[CVPR](https://arxiv.org/pdf/1904.11693.pdf)] Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation. 
-
+- [[CVPR](https://arxiv.org/pdf/1902.10421.pdf)] FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference.
+- [[CVPR](https://arxiv.org/pdf/1904.05044.pdf)] Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations.
 
 ---
 ## 2018
