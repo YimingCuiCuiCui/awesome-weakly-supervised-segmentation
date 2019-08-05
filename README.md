@@ -26,6 +26,10 @@
 - [[CVPR](http://zpascal.net/cvpr2018/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf)] Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing. [[caffe](https://github.com/speedinghzl/DSRG)]
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Bootstrapping_the_Performance_CVPR_2018_paper.pdf)] Bootstrapping the Performance of Webly Supervised Semantic Segmentation. [[caffe](https://github.com/ascust/BDWSS)]
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Weakly_Supervised_Instance_CVPR_2018_paper.pdf)] Weakly Supervised Instance Segmentation using Class Peak Response.  [[pytorch](https://github.com/ZhouYanzhao/PRM)]
-- [[AAAI](https://arxiv.org/pdf/1711.06828.pdf)] Transferable Semi-supervised Semantic Segmentation
-- [[ECCV](https://arxiv.org/abs/1807.04897.pdf)] TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection
-- [[ECCV](https://arxiv.org/abs/1807.08902.pdf)] Self-produced Guidance for Weakly-supervised Object Localization
+- [[AAAI](https://arxiv.org/pdf/1711.06828.pdf)] Transferable Semi-supervised Semantic Segmentation.
+- [[ECCV](https://arxiv.org/abs/1807.04897.pdf)] TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection.
+- [[ECCV](https://arxiv.org/abs/1807.08902.pdf)] Self-produced Guidance for Weakly-supervised Object Localization.
+
+---
+## 2018
+- [[AAAI](https://pdfs.semanticscholar.org/9345/23b3de05318606d4f550f5828cf30a56b1d3.pdf?_ga=2.30714812.2026882509.1564975284-400067050.1564456907)] Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network.
