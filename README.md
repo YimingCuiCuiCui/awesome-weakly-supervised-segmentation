@@ -31,5 +31,6 @@
 - [[ECCV](https://arxiv.org/abs/1807.08902.pdf)] Self-produced Guidance for Weakly-supervised Object Localization.
 
 ---
-## 2018
+## 2017
 - [[AAAI](https://pdfs.semanticscholar.org/9345/23b3de05318606d4f550f5828cf30a56b1d3.pdf?_ga=2.30714812.2026882509.1564975284-400067050.1564456907)] Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network.
+- [[TPAMI](https://weiyc.github.io/assets/pdf/stc_tpami.pdf)] STC: A Simple to Complex Framework for Weakly-supervised Semantic Segmentation.
