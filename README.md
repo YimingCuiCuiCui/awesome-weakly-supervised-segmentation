@@ -17,6 +17,7 @@
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Learning_Instance_Activation_Maps_for_Weakly_Supervised_Instance_Segmentation_CVPR_2019_paper.pdf)] Learning Instance Activation Maps for Weakly Supervised Instance Segmentation.
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_D3TW_Discriminative_Differentiable_Dynamic_Time_Warping_for_Weakly_Supervised_Action_CVPR_2019_paper.pdf)] D3TW: Discriminative Differentiable Dynamic Time Warping for Weakly Supervised Action Alignment and Segmentation.
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Collaborative_Learning_of_Semi-Supervised_Segmentation_and_Classification_for_Medical_Images_CVPR_2019_paper.pdf)] Collaborative Learning of Semi-Supervised Segmentation and Classification for Medical Images.
+- [[IJCAI](https://www.researchgate.net/publication/334844257_Boundary_Perception_Guidance_A_Scribble-Supervised_Semantic_Segmentation_Approach)] Boundary Perception Guidance: A Scribble-Supervised Semantic Segmentation Approach.
 
 ---
 ## 2018
