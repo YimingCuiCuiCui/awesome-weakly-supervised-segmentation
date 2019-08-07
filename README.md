@@ -3,7 +3,7 @@ For anyone who wants to do research about weakly-/semi-supervised learning.
 
 If you find the awesome paper/code/dataset or have some suggestions, please contact cuiyiming@ufl.edu. Thanks for your valuable contribution to the research community :smiley:   
 
-There is another awesome collections for [point cloud(https://github.com/Yochengliu/awesome-point-cloud-analysis)]. Thanks Yongcheng and Hua for their templates.
+There is another awesome collections for [[awesome point cloud](https://github.com/Yochengliu/awesome-point-cloud-analysis)]. Thanks Yongcheng and Hua for their templates.
 
 <h1> 
 
