@@ -30,6 +30,8 @@ __`oth.`__: other, including normal-related, correspondence, mapping, matching, 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_D3TW_Discriminative_Differentiable_Dynamic_Time_Warping_for_Weakly_Supervised_Action_CVPR_2019_paper.pdf)] D3TW: Discriminative Differentiable Dynamic Time Warping for Weakly Supervised Action Alignment and Segmentation.
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Collaborative_Learning_of_Semi-Supervised_Segmentation_and_Classification_for_Medical_Images_CVPR_2019_paper.pdf)] Collaborative Learning of Semi-Supervised Segmentation and Classification for Medical Images.
 - [[IJCAI](https://www.researchgate.net/publication/334844257_Boundary_Perception_Guidance_A_Scribble-Supervised_Semantic_Segmentation_Approach)] Boundary Perception Guidance: A Scribble-Supervised Semantic Segmentation Approach.
+- [[AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/3860)] Weakly-Supervised Simultaneous Evidence Identification and Segmentation for Automated Glaucoma Diagnosis.
+- [[AAAI](https://arxiv.org/pdf/1807.11719.pdf)] A Two-Stream Mutual Attention Network for Semi-supervised Biomedical Segmentation with Noisy Labels
 
 ---
 ## 2018
