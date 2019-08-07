@@ -56,6 +56,7 @@ __`oth.`__: other, including normal-related, correspondence, mapping, matching, 
 - [[IJCAI](https://www.researchgate.net/publication/334844257_Boundary_Perception_Guidance_A_Scribble-Supervised_Semantic_Segmentation_Approach)] Boundary Perception Guidance: A Scribble-Supervised Semantic Segmentation Approach. [__`seg.`__] 
 - [[AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/3860)] Weakly-Supervised Simultaneous Evidence Identification and Segmentation for Automated Glaucoma Diagnosis. [__`seg.`__] 
 - [[AAAI](https://arxiv.org/pdf/1807.11719.pdf)] A Two-Stream Mutual Attention Network for Semi-supervised Biomedical Segmentation with Noisy Labels. [__`seg.`__] 
+- [[AAAI]()] Transferable Curriculum for Weakly-Supervised Domain Adaptation. [  `oth.`__]
 
 ---
 ## 2018
