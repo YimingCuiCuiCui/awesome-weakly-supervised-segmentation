@@ -56,8 +56,31 @@ __`oth.`__: other, including normal-related, correspondence, mapping, matching, 
 - [[IJCAI](https://www.researchgate.net/publication/334844257_Boundary_Perception_Guidance_A_Scribble-Supervised_Semantic_Segmentation_Approach)] Boundary Perception Guidance: A Scribble-Supervised Semantic Segmentation Approach. [__`seg.`__] 
 - [[AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/3860)] Weakly-Supervised Simultaneous Evidence Identification and Segmentation for Automated Glaucoma Diagnosis. [__`seg.`__] 
 - [[AAAI](https://arxiv.org/pdf/1807.11719.pdf)] A Two-Stream Mutual Attention Network for Semi-supervised Biomedical Segmentation with Noisy Labels. [__`seg.`__] 
-- [[AAAI]()] Transferable Curriculum for Weakly-Supervised Domain Adaptation. [  `oth.`__]
-
+- [[AAAI]()] Transferable Curriculum for Weakly-Supervised Domain Adaptation. [__`oth.`__]
+- [[AAAI]()] Adversarial Learning for Weakly-Supervised Social Network Alignment. [__`oth.`__]
+- [[AAAI]()] Joint Semi-supervised Feature Selection and Classification Through Bayesian Approach. [__`oth.`__]
+- [[AAAI]()] Weakly Supervised Scene Parsing with Point-based Distance Metric Learning. [__`oth.`__]
+- [[AAAI]()] Self-Supervised Video Representation Learning with Space-Time Cubic Puzzles. [__`oth.`__]
+- [[AAAI]()] Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple
+Action Detection. [__`det.`__]
+- [[AAAI]()] Distribution-based Semi-Supervised Learning for Activity Recognition. [__`det.`__]
+- [[AAAI]()] Self-Supervised Mixture-of-Experts by Uncertainty Estimation. [__`oth.`__]
+- [[AAAI]()] Dual Semi-Supervised Learning for Facial Action Unit Recognition. [__`det.`__]
+- [[AAAI]()] LabelForest: Non-Parametric Semi-Supervised Learning for Activity Recognition. [__`det.`__]
+- [[AAAI]()] A Topic-Aware Reinforced Model for Weakly Supervised Stance Detection. [__`det.`__]
+- [[AAAI]()] Weakly-Supervised Hierarchical Text Classification. [__`cls.`__]
+- [[AAAI]()] Markov Random Field meets Graph Convolutional Network: End-to-End Learning for
+Semi-Supervised Community Detection. [__`det.`__]
+- [[AAAI]()] Mixture of Expert/Imitator Network: Scalable Semi-supervised Learning Framework. [__`oth.`__]
+- [[AAAI]()] Human-like Delicate Region Erasing Strategy for Weakly Supervised Detection. [__`det.`__]
+- [[AAAI]()] Exploiting synthetically generated data with semi-supervised learning for small and
+imbalanced datasets. [__`oth.`__]
+- [[AAAI]()] Distributionally Robust Semi-supervised Learning for People-centric Sensing. [__`oth.`__]
+- [[AAAI]()] Bayesian Graph Convolutional Neural Networks for Semi-supervised Classification. [__`cls.`__]
+- [[AAAI]()] AffinityNet: Semi-supervised Few-shot Learning for Disease Type Prediction. [__`oth.`__]
+- [[AAAI]()] Revisiting LSTM Networks for Semi-Supervised Text Classification via Mixed Objective Function. [__`cls.`__]
+- [[AAAI]()] Matrix Completion for Graph-Based Deep Semi-Supervised Learning. [__`oth.`__]
+- [[AAAI]()] Towards Automated Semi-Supervised Learning. [__`oth.`__]
 ---
 ## 2018
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0812.pdf)] Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-Supervised Semantic Segmentation. [__`seg.`__] 
