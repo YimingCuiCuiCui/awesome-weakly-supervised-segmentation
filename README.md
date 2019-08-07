@@ -1,12 +1,24 @@
-# Awesome-Weakly/Semi-Supervised-Segmentation
+# Awesome-Weakly/Semi-Supervised-Learning
+For anyone who wants to do research about weakly-/semi-supervised learning.   
+
+If you find the awesome paper/code/dataset or have some suggestions, please contact cuiyiming@ufl.edu. Thanks for your valuable contribution to the research community :smiley:   
+
+There is another awesome collections for [point cloud(https://github.com/Yochengliu/awesome-point-cloud-analysis)]. Thanks Yongcheng and Hua for their templates.
 
 <h1> 
 
 ```diff
-- Recent papers (from 2017)
+- Recent papers (from 2015)
 ```
 
 </h1>
+
+<h3> Keywords </h3>
+
+__`dat.`__: dataset &emsp; | &emsp; __`cls.`__: classification &emsp; | &emsp; __`rel.`__: retrieval &emsp; | &emsp; __`seg.`__: segmentation     
+__`det.`__: detection &emsp; | &emsp; __`tra.`__: tracking &emsp; | &emsp; __`pos.`__: pose &emsp; | &emsp; __`dep.`__: depth     
+__`reg.`__: registration &emsp; | &emsp; __`rec.`__: reconstruction &emsp; | &emsp; __`aut.`__: autonomous driving     
+__`oth.`__: other, including normal-related, correspondence, mapping, matching, alignment, compression, generative model...
 
 ---
 ## 2019
