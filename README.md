@@ -1,10 +1,6 @@
 # Awesome-Weakly/Semi-Supervised-Learning
 For anyone who wants to do research about weakly-/semi-supervised learning.   
 
-If you find the awesome paper/code/dataset or have some suggestions, please contact cuiyiming@ufl.edu. Thanks for your valuable contribution to the research community :smiley:   
-
-There is another awesome collections for [[awesome point cloud](https://github.com/Yochengliu/awesome-point-cloud-analysis)]. Thanks Yongcheng and Hua for their templates.
-
 <h1> 
 
 ```diff
@@ -22,9 +18,7 @@ __`oth.`__: other, including normal-related, correspondence, mapping, matching, 
 
 ---
 ## 2019
-<!---
 - [[CVPR](https://arxiv.org/pdf/1904.11693.pdf)] Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation. [__`seg.`__] 
---->
 - [[CVPR](https://arxiv.org/pdf/1902.10421.pdf)] FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference. [__`seg.`__] 
 - [[CVPR](https://arxiv.org/pdf/1904.05044.pdf)] Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations. [__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_Cyclic_Guidance_for_Weakly_Supervised_Joint_Detection_and_Segmentation_CVPR_2019_paper.pdf)] Cyclic Guidance for Weakly Supervised Joint Detection and Segmentation. [__`seg.`__] 
