@@ -1,4 +1,4 @@
-# Awesome-Weakly-Supervised-Segmentation
+# awesome-weakly-supervised-segmentation
 
 <h1> 
 
