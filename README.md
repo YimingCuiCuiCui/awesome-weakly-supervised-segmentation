@@ -1,5 +1,4 @@
-# Awesome-Weakly/Semi-Supervised-Learning
-For anyone who wants to do research about weakly-/semi-supervised learning.   
+# Awesome-Weakly-Supervised-Semantic-Segmentation
 
 <h1> 
 
