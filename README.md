@@ -22,13 +22,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/1904.11693.pdf)] Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation. [__`seg.`__] 
 - [[CVPR](https://arxiv.org/pdf/1902.10421.pdf)] FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference. [__`seg.`__] :star:
 - [[CVPR](https://arxiv.org/pdf/1904.05044.pdf)] IRNet: Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations. [[pytorch](https://github.com/jiwoon-ahn/irn)] [__`seg.`__] :star:
-- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_Cyclic_Guidance_for_Weakly_Supervised_
-_Detection_and_Segmentation_CVPR_2019_paper.pdf)] Cyclic Guidance for Weakly Supervised Joint Detection and Segmentation. [__`seg.`__] 
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_Cyclic_Guidance_for_Weakly_Supervised_Joint_Detection_and_Segmentation_CVPR_2019_paper.pdf)] Cyclic Guidance for Weakly Supervised Joint Detection and Segmentation. [__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Learning_Instance_Activation_Maps_for_Weakly_Supervised_Instance_Segmentation_CVPR_2019_paper.pdf)] Learning Instance Activation Maps for Weakly Supervised Instance Segmentation. [__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_D3TW_Discriminative_Differentiable_Dynamic_Time_Warping_for_Weakly_Supervised_Action_CVPR_2019_paper.pdf)] D3TW: Discriminative Differentiable Dynamic Time Warping for Weakly Supervised Action Alignment and Segmentation. [__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Collaborative_Learning_of_Semi-Supervised_Segmentation_and_Classification_for_Medical_Images_CVPR_2019_paper.pdf)] Collaborative Learning of Semi-Supervised Segmentation and Classification for Medical Images. [__`seg.`__] 
 - [[CVPR](https://arxiv.org/abs/1905.01298.pdf)] SCOPS: Self-Supervised Co-Part Segmentation. [[pytorch](https://github.com/NVlabs/SCOPS)][__`seg.`__] 
-- [[ICCV](https://arxiv.org/pdf/1909.04161v1.pdf)] Joint Learning of Saliency Detection and Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/zengxianyu/jsws)][__`seg.`__] 
+- [[ICCV](https://arxiv.org/pdf/1909.04161v1.pdf)] Joint Learning of Saliency Detection and Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/zengxianyu/jsws)][__`seg.`__] :star:
 - [[IJCAI](https://www.researchgate.net/publication/334844257_Boundary_Perception_Guidance_A_Scribble-Supervised_Semantic_Segmentation_Approach)] Boundary Perception Guidance: A Scribble-Supervised Semantic Segmentation Approach. [__`seg.`__] 
 - [[AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/3860)] Weakly-Supervised Simultaneous Evidence Identification and Segmentation for Automated Glaucoma Diagnosis. [__`seg.`__] 
 - [[AAAI](https://arxiv.org/pdf/1807.11719.pdf)] A Two-Stream Mutual Attention Network for Semi-supervised Biomedical Segmentation with Noisy Labels. [__`seg.`__] 
