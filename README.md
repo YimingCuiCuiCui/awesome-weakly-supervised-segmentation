@@ -56,17 +56,12 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Bootstrapping_the_Performance_CVPR_2018_paper.pdf)] Bootstrapping the Performance of Webly Supervised Semantic Segmentation. [__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_Normalized_Cut_Loss_CVPR_2018_paper.pdf)] Normalized Cut Loss for Weakly-Supervised CNN Segmentation. [__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Learning_Facial_Action_CVPR_2018_paper.pdf)] Learning Facial Action Units From Web Images With Scalable Weakly Supervised Clustering. [__`seg.`__] 
-- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Weakly_Supervised_Instance_CVPR_2018_paper.pdf)] Weakly Supervised Instance Segmentation Using Class Peak Response. [__`seg.`__] 
-- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ahn_Learning_Pixel-Level_Semantic_CVPR_2018_paper.pdf)] PSA: Learning Pixel-Level Semantic Affinity With Image-Level Supervision for Weakly Supervised Semantic Segmentation. [__`seg.`__] :star: :sunflower:
+- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Weakly_Supervised_Instance_CVPR_2018_paper.pdf)] Weakly Supervised Instance Segmentation Using Class Peak Response. [__`img.`__] [__`ins.`__] :sunflower:
+- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ahn_Learning_Pixel-Level_Semantic_CVPR_2018_paper.pdf)] PSA: Learning Pixel-Level Semantic Affinity With Image-Level Supervision for Weakly Supervised Semantic Segmentation. [__`img.`__] :star: :sunflower:
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Richard_Action_Sets_Weakly_CVPR_2018_paper.pdf)] Action Sets: Weakly Supervised Action Segmentation Without Ordering Constraints. [__`seg.`__] 
-- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Weakly-Supervised_Action_Segmentation_CVPR_2018_paper.pdf)] Weakly-Supervised Action Segmentation With Iterative Soft Boundary Assignment. [__`seg.`__] 
-- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf)] Weakly-Supervised Semantic Segmentation Network With Deep Seeded Region Growing. [__`seg.`__] 
-- [[AAAI](https://arxiv.org/pdf/1711.06828.pdf)] Transferable Semi-supervised Semantic Segmentation. [__`seg.`__] 
-- [[AAAI]()] Kill Two Birds with One Stone: Weakly-Supervised Neural Network for Image Annotation and Tag Refinement. [__`seg.`__] 
-- [[AAAI]()] Mix-and-Match Tuning for Self-Supervised Semantic Segmentation. [__`seg.`__] 
-- [[AAAI]()] Transferable Semi-supervised Semantic Segmentation. [__`seg.`__] 
-- [[ECCV](https://arxiv.org/abs/1807.04897.pdf)] TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection. [__`seg.`__] 
-- [[ECCV](https://arxiv.org/abs/1807.08902.pdf)] Self-produced Guidance for Weakly-supervised Object Localization. [__`img.`__] 
+- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Weakly-Supervised_Action_Segmentation_CVPR_2018_paper.pdf)] Weakly-Supervised Action Segmentation With Iterative Soft Boundary Assignment. [__`box.`__] 
+- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf)] Weakly-Supervised Semantic Segmentation Network With Deep Seeded Region Growing. [__`img.`__] 
+- [[AAAI](https://arxiv.org/pdf/1711.06828.pdf)] Transferable Semi-supervised Semantic Segmentation. [__`img.`__] 
 - [[ECCV](https://arxiv.org/abs/1808.03575v3)] Weakly- and Semi-Supervised Panoptic Segmentation. [[matlab](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)][__`img.`__][__`ins.`__][__`pan.`__] :star: :sunflower:
 - [[BMVC](https://arxiv.org/abs/1807.09169)] CSPN: Convolutional Simplex Projection Network for Weakly Supervised Semantic Segmentation. [[caffe](https://github.com/briqr/CSPN)][__`img.`__] :star: :sunflower:
 
