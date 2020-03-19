@@ -61,6 +61,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[AAAI]()] Transferable Semi-supervised Semantic Segmentation. [__`seg.`__] 
 - [[ECCV](https://arxiv.org/abs/1807.04897.pdf)] TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection. [__`seg.`__] 
 - [[ECCV](https://arxiv.org/abs/1807.08902.pdf)] Self-produced Guidance for Weakly-supervised Object Localization. [__`seg.`__] 
+- [[ECCV](https://arxiv.org/abs/1808.03575v3)] Weakly- and Semi-Supervised Panoptic Segmentation. [[matlab](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)][__`seg.`__] :star:
 - [[BMVC](https://arxiv.org/abs/1807.09169)] CSPN: Convolutional Simplex Projection Network for Weakly Supervised Semantic Segmentation. [[caffe](https://github.com/briqr/CSPN)][__`seg.`__] :star:
 
 
@@ -76,3 +77,4 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ---
 ## 2015
 - [[ICCV](https://arxiv.org/abs/1506.03648)] CCNN: Constrained Convolutional Neural Networks for Weakly Supervised Segmentation. [[caffe](https://github.com/pathak22/ccnn)][__`seg.`__] :star:
+- [[ICCV](https://arxiv.org/abs/1502.02734v3)] Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation. [[caffe](https://github.com/TheLegendAli/DeepLab-Context)][[caffe](https://github.com/open-cv/deeplab-v1)][__`seg.`__] :star:
