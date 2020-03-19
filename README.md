@@ -20,7 +20,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ---
 ## 2020
 - [[AAAI](https://arxiv.org/abs/1911.08039)] RRM: Reliability Does Matter: An End-to-EndWeakly Supervised Semantic Segmentation Approach. [[pytorch](https://github.com/zbf1991/RRM)] [__`seg.`__] :star: 
-
+- [[IEEE Access](https://arxiv.org/abs/1910.05475)] SGAN: Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation. [[pytorch](https://github.com/yaoqi-zd/SGAN)] [__`seg.`__] :star: 
 ---
 ## 2019
 - [[CVPR](https://arxiv.org/pdf/1904.11693.pdf)] Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation. [__`seg.`__] 
@@ -71,8 +71,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 2016
-- [[TPAMI](https://ieeexplore.ieee.org/document/7775087)] STC: A Simple to Complex Framework for Weakly-Supervised Semantic Segmentation. [__`seg.`__]
-
+- [[ECCV](https://arxiv.org/abs/1603.06098)] SEC: Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation. [[caffe](https://github.com/kolesman/SEC)][[pytorch](https://github.com/halbielee/SEC_pytorch)][__`seg.`__] :star:
 ---
 ## 2015
 - [[ICCV](https://arxiv.org/abs/1506.03648)] CCNN: Constrained Convolutional Neural Networks for Weakly Supervised Segmentation. [[caffe](https://github.com/pathak22/ccnn)][__`seg.`__] :star:
