@@ -15,7 +15,8 @@ __`det.`__: detection &emsp; | &emsp; __`tra.`__: tracking &emsp; | &emsp; __`po
 __`reg.`__: registration &emsp; | &emsp; __`rec.`__: reconstruction &emsp; | &emsp; __`aut.`__: autonomous driving     
 __`oth.`__: other, including normal-related, correspondence, mapping, matching, alignment, compression, generative model...
 
-Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular & cited in a survey &emsp;|&emsp; :sunflower: natural scene images &emsp;|&emsp; :sunny: remote sensing images &emsp;|&emsp; :hospital: medical images
+Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular & cited in a survey 
+:sunflower: natural scene images &emsp;|&emsp; :earth_americas: remote sensing images &emsp;|&emsp; :hospital: medical images
 
 ---
 ## 2020
@@ -71,7 +72,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[CVPR](http://webia.lip6.fr/~cord/pdfs/publis/Durand_WILDCAT_CVPR_2017.pdf)]WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation. [[pytorch](https://github.com/durandtibo/wildcat.pytorch)][__`seg.`__] :star: :sunflower:
 - [[AAAI](https://pdfs.semanticscholar.org/9345/23b3de05318606d4f550f5828cf30a56b1d3.pdf?_ga=2.30714812.2026882509.1564975284-400067050.1564456907)] Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network. [__`seg.`__] 
 - [[TPAMI](https://weiyc.github.io/assets/pdf/stc_tpami.pdf)] STC: A Simple to Complex Framework for Weakly-supervised Semantic Segmentation. [__`seg.`__] :star: :sunflower:
-
+- [[TMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7971941)[arXiv](https://arxiv.org/abs/1701.00794)] Constrained Deep Weak Supervision for Histopathology Image Segmentation. [__`seg.`__] :star: :hospital:
 ---
 ## 2016
 - [[ECCV](https://arxiv.org/abs/1603.06098)] SEC: Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation. [[caffe](https://github.com/kolesman/SEC)][[pytorch](https://github.com/halbielee/SEC_pytorch)][__`seg.`__] :star: :sunflower:
