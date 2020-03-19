@@ -65,9 +65,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[AAAI]()] Mix-and-Match Tuning for Self-Supervised Semantic Segmentation. [__`seg.`__] 
 - [[AAAI]()] Transferable Semi-supervised Semantic Segmentation. [__`seg.`__] 
 - [[ECCV](https://arxiv.org/abs/1807.04897.pdf)] TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection. [__`seg.`__] 
-- [[ECCV](https://arxiv.org/abs/1807.08902.pdf)] Self-produced Guidance for Weakly-supervised Object Localization. [__`seg.`__] 
-- [[ECCV](https://arxiv.org/abs/1808.03575v3)] Weakly- and Semi-Supervised Panoptic Segmentation. [[matlab](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)][__`seg.`__] :star: :sunflower:
-- [[BMVC](https://arxiv.org/abs/1807.09169)] CSPN: Convolutional Simplex Projection Network for Weakly Supervised Semantic Segmentation. [[caffe](https://github.com/briqr/CSPN)][__`seg.`__] :star: :sunflower:
+- [[ECCV](https://arxiv.org/abs/1807.08902.pdf)] Self-produced Guidance for Weakly-supervised Object Localization. [__`img.`__] 
+- [[ECCV](https://arxiv.org/abs/1808.03575v3)] Weakly- and Semi-Supervised Panoptic Segmentation. [[matlab](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)][__`img.`__] :star: :sunflower:
+- [[BMVC](https://arxiv.org/abs/1807.09169)] CSPN: Convolutional Simplex Projection Network for Weakly Supervised Semantic Segmentation. [[caffe](https://github.com/briqr/CSPN)][__`img.`__] :star: :sunflower:
 
 
 ---
@@ -75,6 +75,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[CVPR](https://arxiv.org/abs/1703.08448)]AE-PSL: Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach. [__`img.`__] :star: :sunflower:
 - [[CVPR](http://webia.lip6.fr/~cord/pdfs/publis/Durand_WILDCAT_CVPR_2017.pdf)]WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation. [[pytorch](https://github.com/durandtibo/wildcat.pytorch)][__`img.`__] :star: :sunflower:
 - [[AAAI](https://pdfs.semanticscholar.org/9345/23b3de05318606d4f550f5828cf30a56b1d3.pdf?_ga=2.30714812.2026882509.1564975284-400067050.1564456907)] Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network. [__`img.`__] :sunflower:
+- [[BMVC](https://arxiv.org/abs/1707.05821v1)]DCSP: Discovering Class Specific Pixels for Weakly Supervised Semantic Segmentation. [[tensorflow](https://github.com/arslan-chaudhry/dcsp_segmentation)][__`img.`__] :sunflower:
 - [[TPAMI](https://weiyc.github.io/assets/pdf/stc_tpami.pdf)] STC: A Simple to Complex Framework for Weakly-supervised Semantic Segmentation. [__`img.`__] :star: :sunflower:
 - [[TMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7971941)][[arXiv](https://arxiv.org/abs/1701.00794)] Constrained Deep Weak Supervision for Histopathology Image Segmentation. [__`img.`__] :star: :hospital:
 ---
