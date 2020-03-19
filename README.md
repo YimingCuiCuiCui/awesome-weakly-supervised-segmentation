@@ -20,7 +20,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 
 ---
 ## 2020
-
+- [[ICLR](https://arxiv.org/abs/1906.06558v2)] Mask Based Unsupervised Content Transfer. [[pytorch](https://github.com/rmokady/mbu-content-tansfer)] [__`img.`__] :sunflower:
 - [[AAAI](https://arxiv.org/abs/1911.08039)] RRM: Reliability Does Matter: An End-to-EndWeakly Supervised Semantic Segmentation Approach. [[pytorch](https://github.com/zbf1991/RRM)] [__`img.`__] :star: :sunflower:
 - [[IEEE Access](https://arxiv.org/abs/1910.05475)] SGAN: Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation. [[pytorch](https://github.com/yaoqi-zd/SGAN)] [__`img.`__] :star: :sunflower:
 ---
@@ -36,6 +36,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[ICCV](https://arxiv.org/abs/1909.04161)] JSWS: Joint Learning of Saliency Detection and Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/zengxianyu/jsws)][__`seg.`__] :star: :sunflower:
 - [[ICCV](https://arxiv.org/abs/1911.01370)] SSDD: Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation. [[pytorch](https://github.com/shimoda-uec/ssdd)][__`seg.`__] :star: :sunflower:
 - [[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chan_HistoSegNet_Semantic_Segmentation_of_Histological_Tissue_Type_in_Whole_Slide_ICCV_2019_paper.pdf)]HistoSegNet: Semantic Segmentation of Histological Tissue Type in Whole Slide Images. [[tensorflow](https://github.com/lyndonchan/hsn_v1)][__`seg.`__] :star: :hospital:
+- [[ICCV](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9009076)] Integral Object Mining via Online Attention Accumulation. [[pytorch](https://github.com/PengtaoJiang/OAA)][[pytorch_v2](https://github.com/PengtaoJiang/OAA-PyTorch)][__`img.`__] :sunflower:
 - [[IJCAI](https://www.researchgate.net/publication/334844257_Boundary_Perception_Guidance_A_Scribble-Supervised_Semantic_Segmentation_Approach)] Boundary Perception Guidance: A Scribble-Supervised Semantic Segmentation Approach. [__`seg.`__] 
 - [[AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/3860)] Weakly-Supervised Simultaneous Evidence Identification and Segmentation for Automated Glaucoma Diagnosis. [__`seg.`__] 
 - [[AAAI](https://arxiv.org/pdf/1807.11719.pdf)] A Two-Stream Mutual Attention Network for Semi-supervised Biomedical Segmentation with Noisy Labels. [__`seg.`__] 
@@ -84,4 +85,4 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 
 ## 2015
 - [[ICCV](https://arxiv.org/abs/1506.03648)] CCNN: Constrained Convolutional Neural Networks for Weakly Supervised Segmentation. [[caffe](https://github.com/pathak22/ccnn)][__`img.`__] :star: :sunflower:
-- [[ICCV](https://arxiv.org/abs/1502.02734v3)] Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation. [[caffe](https://github.com/TheLegendAli/DeepLab-Context)][[caffe](https://github.com/open-cv/deeplab-v1)][__`img.`__] :star: :sunflower:
+- [[ICCV](https://arxiv.org/abs/1502.02734v3)] Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation. [[caffe](https://github.com/TheLegendAli/DeepLab-Context)][[caffe_v2](https://github.com/open-cv/deeplab-v1)][__`img.`__] :star: :sunflower:
