@@ -11,7 +11,13 @@
 <h3> Keywords </h3>
 
 
-__`img.`__: image level label &emsp; | &emsp; __`box.`__: bounding box &emsp; | &emsp; __`box.`__: instance segmentation  &emsp; | &emsp; __`pan.`__: panotic segmentation 
+__`img.`__: image level label &emsp; | &emsp; __`box.`__: bounding box &emsp; | &emsp; __`box.`__: 
+
+
+
+
+
+tance segmentation  &emsp; | &emsp; __`pan.`__: panotic segmentation 
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular & cited in a survey &emsp;|&emsp;
 :sunflower: natural scene images &emsp;|&emsp; :earth_americas: remote sensing images &emsp;|&emsp; :hospital: medical images &emsp;|&emsp; :video_camera: video segmentation
@@ -31,7 +37,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_D3TW_Discriminative_Differentiable_Dynamic_Time_Warping_for_Weakly_Supervised_Action_CVPR_2019_paper.pdf)] D3TW: Discriminative Differentiable Dynamic Time Warping for Weakly Supervised Action Alignment and Segmentation. [__`img.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Collaborative_Learning_of_Semi-Supervised_Segmentation_and_Classification_for_Medical_Images_CVPR_2019_paper.pdf)] Collaborative Learning of Semi-Supervised Segmentation and Classification for Medical Images. [__`img.`__]  :hospital:
 - [[CVPR](https://arxiv.org/abs/1905.01298.pdf)] SCOPS: Self-Supervised Co-Part Segmentation. [[pytorch](https://github.com/NVlabs/SCOPS)][__`img.`__] 
-- [[NIPS](http://papers.nips.cc/paper/8885-weakly-supervised-instance-segmentation-using-the-bounding-box-tightness-prior.pdf)] Weakly Supervised Instance Segmentation using the Bounding Box Tightness Prior. [[pytorch](https://github.com/chengchunhsu/WSIS_BBTP)][__`box.`__] [__`ins.`__]:sunflower:
+- [[NIPS](http://papers.nips.cc/paper/8885-weakly-supervised-instance-segmentation-using-the-bounding-box-tightness-prior.pdf)] Weakly Supervised Instance Segmentation using the Bounding Box Tightness Prior. [[pytorch](https://github.com/chengchunhsu/WSIS_BBTP)][__`box.`__,__``__]:sunflower:
 - [[ICCV](https://arxiv.org/abs/1909.04161)] JSWS: Joint Learning of Saliency Detection and Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/zengxianyu/jsws)][__`img.`__] :star: :sunflower:
 - [[ICCV](https://arxiv.org/abs/1911.01370)] SSDD: Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation. [[pytorch](https://github.com/shimoda-uec/ssdd)][__`img.`__] :star: :sunflower:
 - [[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chan_HistoSegNet_Semantic_Segmentation_of_Histological_Tissue_Type_in_Whole_Slide_ICCV_2019_paper.pdf)]HistoSegNet: Semantic Segmentation of Histological Tissue Type in Whole Slide Images. [[tensorflow](https://github.com/lyndonchan/hsn_v1)][__`img.`__] :star: :hospital:
@@ -49,11 +55,10 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0812.pdf)] MDC: Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-Supervised Semantic Segmentation. [__`img.`__] :star: :sunflower:
 - [[CVPR](http://zpascal.net/cvpr2018/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf)] DSRG: Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing. [[caffe](https://github.com/speedinghzl/DSRG)] [__`img.`__] :star: :sunflower:
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Bootstrapping_the_Performance_CVPR_2018_paper.pdf)] Bootstrapping the Performance of Webly Supervised Semantic Segmentation. [[caffe](https://github.com/ascust/BDWSS)] [__`img.`__]  :sunflower:
-- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Weakly_Supervised_Instance_CVPR_2018_paper.pdf)] Weakly Supervised Instance Segmentation using Class Peak Response.  [[pytorch](https://github.com/ZhouYanzhao/PRM)][__`seg.`__] 
-- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ge_Multi-Evidence_Filtering_and_CVPR_2018_paper.pdf)] Multi-Evidence Filtering and Fusion for Multi-Label Classification, Object Detection and Semantic Segmentation Based on Weakly Supervised Learning. [__`cls.`__, __`seg.`__,__`det.`__] 
+- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Weakly_Supervised_Instance_CVPR_2018_paper.pdf)] Weakly Supervised Instance Segmentation using Class Peak Response.  [[pytorch](https://github.com/ZhouYanzhao/PRM)][__`img.`__,__`ins.`__] :sunflower:
+- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ge_Multi-Evidence_Filtering_and_CVPR_2018_paper.pdf)] Multi-Evidence Filtering and Fusion for Multi-Label Classification, Object Detection and Semantic Segmentation Based on Weakly Supervised Learning. [__`img.`__] :sunflower:
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf)] Weakly-Supervised Semantic Segmentation by Iteratively Mining Common Object Features. [__`img.`__] :sunflower: 
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_Normalized_Cut_Loss_CVPR_2018_paper.pdf)] Normalized Cut Loss for Weakly-Supervised CNN Segmentation. [__`img.`__] :sunflower:
-- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Weakly_Supervised_Instance_CVPR_2018_paper.pdf)] Weakly Supervised Instance Segmentation Using Class Peak Response. [__`img.`__] [__`ins.`__] :sunflower:
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ahn_Learning_Pixel-Level_Semantic_CVPR_2018_paper.pdf)] PSA: Learning Pixel-Level Semantic Affinity With Image-Level Supervision for Weakly Supervised Semantic Segmentation. [__`img.`__] :star: :sunflower:
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Richard_Action_Sets_Weakly_CVPR_2018_paper.pdf)] Action Sets: Weakly Supervised Action Segmentation Without Ordering Constraints. [__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Weakly-Supervised_Action_Segmentation_CVPR_2018_paper.pdf)] Weakly-Supervised Action Segmentation With Iterative Soft Boundary Assignment. [__`box.`__] 
