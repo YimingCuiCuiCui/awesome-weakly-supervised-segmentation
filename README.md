@@ -56,6 +56,7 @@ __`oth.`__: other, including normal-related, correspondence, mapping, matching, 
 
 ---
 ## 2017
+- [[CVPR](https://arxiv.org/abs/1703.08448)] Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach. [__`seg.`__] 
 - [[AAAI](https://pdfs.semanticscholar.org/9345/23b3de05318606d4f550f5828cf30a56b1d3.pdf?_ga=2.30714812.2026882509.1564975284-400067050.1564456907)] Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network. [__`seg.`__] 
 - [[TPAMI](https://weiyc.github.io/assets/pdf/stc_tpami.pdf)] STC: A Simple to Complex Framework for Weakly-supervised Semantic Segmentation. [__`seg.`__] 
 
