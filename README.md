@@ -15,6 +15,8 @@ __`det.`__: detection &emsp; | &emsp; __`tra.`__: tracking &emsp; | &emsp; __`po
 __`reg.`__: registration &emsp; | &emsp; __`rec.`__: reconstruction &emsp; | &emsp; __`aut.`__: autonomous driving     
 __`oth.`__: other, including normal-related, correspondence, mapping, matching, alignment, compression, generative model...
 
+Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
+
 ---
 ## 2019
 - [[CVPR](https://arxiv.org/pdf/1904.11693.pdf)] Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation. [__`seg.`__] 
@@ -25,9 +27,7 @@ __`oth.`__: other, including normal-related, correspondence, mapping, matching, 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_D3TW_Discriminative_Differentiable_Dynamic_Time_Warping_for_Weakly_Supervised_Action_CVPR_2019_paper.pdf)] D3TW: Discriminative Differentiable Dynamic Time Warping for Weakly Supervised Action Alignment and Segmentation. [__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Collaborative_Learning_of_Semi-Supervised_Segmentation_and_Classification_for_Medical_Images_CVPR_2019_paper.pdf)] Collaborative Learning of Semi-Supervised Segmentation and Classification for Medical Images. [__`seg.`__] 
 - [[CVPR](https://arxiv.org/abs/1905.01298.pdf)] SCOPS: Self-Supervised Co-Part Segmentation. [[pytorch](https://github.com/NVlabs/SCOPS)][__`seg.`__] 
-
 - [[ICCV](https://arxiv.org/pdf/1909.04161v1.pdf)] Joint Learning of Saliency Detection and Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/zengxianyu/jsws)][__`seg.`__] 
-
 - [[IJCAI](https://www.researchgate.net/publication/334844257_Boundary_Perception_Guidance_A_Scribble-Supervised_Semantic_Segmentation_Approach)] Boundary Perception Guidance: A Scribble-Supervised Semantic Segmentation Approach. [__`seg.`__] 
 - [[AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/3860)] Weakly-Supervised Simultaneous Evidence Identification and Segmentation for Automated Glaucoma Diagnosis. [__`seg.`__] 
 - [[AAAI](https://arxiv.org/pdf/1807.11719.pdf)] A Two-Stream Mutual Attention Network for Semi-supervised Biomedical Segmentation with Noisy Labels. [__`seg.`__] 
@@ -59,7 +59,7 @@ __`oth.`__: other, including normal-related, correspondence, mapping, matching, 
 
 ---
 ## 2017
-- [[CVPR](https://arxiv.org/abs/1703.08448)]AE-PSL: Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach. [__`seg.`__] 
+- [[CVPR](https://arxiv.org/abs/1703.08448)]AE-PSL: Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach. [__`seg.`__] :star
 - [[AAAI](https://pdfs.semanticscholar.org/9345/23b3de05318606d4f550f5828cf30a56b1d3.pdf?_ga=2.30714812.2026882509.1564975284-400067050.1564456907)] Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network. [__`seg.`__] 
 - [[TPAMI](https://weiyc.github.io/assets/pdf/stc_tpami.pdf)] STC: A Simple to Complex Framework for Weakly-supervised Semantic Segmentation. [__`seg.`__] 
 
