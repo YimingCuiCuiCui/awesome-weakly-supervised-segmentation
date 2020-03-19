@@ -20,9 +20,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ---
 ## 2019
 - [[CVPR](https://arxiv.org/pdf/1904.11693.pdf)] Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation. [__`seg.`__] 
-- [[CVPR](https://arxiv.org/pdf/1902.10421.pdf)] FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference. [__`seg.`__] 
-- [[CVPR](https://arxiv.org/pdf/1904.05044.pdf)] IRNet: Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations. [[pytorch](https://github.com/jiwoon-ahn/irn)] [__`seg.`__] 
-- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_Cyclic_Guidance_for_Weakly_Supervised_Joint_Detection_and_Segmentation_CVPR_2019_paper.pdf)] Cyclic Guidance for Weakly Supervised Joint Detection and Segmentation. [__`seg.`__] 
+- [[CVPR](https://arxiv.org/pdf/1902.10421.pdf)] FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference. [__`seg.`__] :star:
+- [[CVPR](https://arxiv.org/pdf/1904.05044.pdf)] IRNet: Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations. [[pytorch](https://github.com/jiwoon-ahn/irn)] [__`seg.`__] :star:
+- [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_Cyclic_Guidance_for_Weakly_Supervised_
+_Detection_and_Segmentation_CVPR_2019_paper.pdf)] Cyclic Guidance for Weakly Supervised Joint Detection and Segmentation. [__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Learning_Instance_Activation_Maps_for_Weakly_Supervised_Instance_Segmentation_CVPR_2019_paper.pdf)] Learning Instance Activation Maps for Weakly Supervised Instance Segmentation. [__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_D3TW_Discriminative_Differentiable_Dynamic_Time_Warping_for_Weakly_Supervised_Action_CVPR_2019_paper.pdf)] D3TW: Discriminative Differentiable Dynamic Time Warping for Weakly Supervised Action Alignment and Segmentation. [__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Collaborative_Learning_of_Semi-Supervised_Segmentation_and_Classification_for_Medical_Images_CVPR_2019_paper.pdf)] Collaborative Learning of Semi-Supervised Segmentation and Classification for Medical Images. [__`seg.`__] 
@@ -35,7 +36,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ## 2018
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0812.pdf)] Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-Supervised Semantic Segmentation. [__`seg.`__] 
 - [[CVPR](https://arxiv.org/pdf/1806.04659.pdf)] Weakly-Supervised Semantic Segmentation by Iteratively Mining Common Object Features.
-- [[CVPR](http://zpascal.net/cvpr2018/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf)] DSRG: Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing. [[caffe](https://github.com/speedinghzl/DSRG)] [__`seg.`__] 
+- [[CVPR](http://zpascal.net/cvpr2018/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf)] DSRG: Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing. [[caffe](https://github.com/speedinghzl/DSRG)] [__`seg.`__] :star:
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Bootstrapping_the_Performance_CVPR_2018_paper.pdf)] Bootstrapping the Performance of Webly Supervised Semantic Segmentation. [[caffe](https://github.com/ascust/BDWSS)] [__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Weakly_Supervised_Instance_CVPR_2018_paper.pdf)] Weakly Supervised Instance Segmentation using Class Peak Response.  [[pytorch](https://github.com/ZhouYanzhao/PRM)][__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ge_Multi-Evidence_Filtering_and_CVPR_2018_paper.pdf)] Multi-Evidence Filtering and Fusion for Multi-Label Classification, Object Detection and Semantic Segmentation Based on Weakly Supervised Learning. [__`cls.`__, __`seg.`__,__`det.`__] 
@@ -54,12 +55,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[AAAI]()] Transferable Semi-supervised Semantic Segmentation. [__`seg.`__] 
 - [[ECCV](https://arxiv.org/abs/1807.04897.pdf)] TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection. [__`seg.`__] 
 - [[ECCV](https://arxiv.org/abs/1807.08902.pdf)] Self-produced Guidance for Weakly-supervised Object Localization. [__`seg.`__] 
-- [[BMVC](https://arxiv.org/abs/1807.09169)] Convolutional Simplex Projection Network (CSPN) for Weakly Supervised Semantic Segmentation. [[caffe](https://github.com/briqr/CSPN)][__`seg.`__] 
+- [[BMVC](https://arxiv.org/abs/1807.09169)] Convolutional Simplex Projection Network (CSPN) for Weakly Supervised Semantic Segmentation. [[caffe](https://github.com/briqr/CSPN)][__`seg.`__] :star:
 
 
 ---
 ## 2017
-- [[CVPR](https://arxiv.org/abs/1703.08448)]AE-PSL: Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach. [__`seg.`__] :star
+- [[CVPR](https://arxiv.org/abs/1703.08448)]AE-PSL: Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach. [__`seg.`__] :star:
 - [[AAAI](https://pdfs.semanticscholar.org/9345/23b3de05318606d4f550f5828cf30a56b1d3.pdf?_ga=2.30714812.2026882509.1564975284-400067050.1564456907)] Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network. [__`seg.`__] 
 - [[TPAMI](https://weiyc.github.io/assets/pdf/stc_tpami.pdf)] STC: A Simple to Complex Framework for Weakly-supervised Semantic Segmentation. [__`seg.`__] 
 
@@ -69,4 +70,4 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 2015
-- [[ICCV](https://arxiv.org/abs/1506.03648)] CCNN: Constrained Convolutional Neural Networks for Weakly Supervised Segmentation. [[caffe](https://github.com/pathak22/ccnn)][__`seg.`__]
+- [[ICCV](https://arxiv.org/abs/1506.03648)] CCNN: Constrained Convolutional Neural Networks for Weakly Supervised Segmentation. [[caffe](https://github.com/pathak22/ccnn)][__`seg.`__] :star:
