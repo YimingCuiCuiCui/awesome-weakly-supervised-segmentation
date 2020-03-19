@@ -68,6 +68,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ---
 ## 2017
 - [[CVPR](https://arxiv.org/abs/1703.08448)]AE-PSL: Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach. [__`seg.`__] :star:
+- [[CVPR](http://webia.lip6.fr/~cord/pdfs/publis/Durand_WILDCAT_CVPR_2017.pdf)]WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation. [[pytorch](https://github.com/durandtibo/wildcat.pytorch)][__`seg.`__] :star:
 - [[AAAI](https://pdfs.semanticscholar.org/9345/23b3de05318606d4f550f5828cf30a56b1d3.pdf?_ga=2.30714812.2026882509.1564975284-400067050.1564456907)] Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network. [__`seg.`__] 
 - [[TPAMI](https://weiyc.github.io/assets/pdf/stc_tpami.pdf)] STC: A Simple to Complex Framework for Weakly-supervised Semantic Segmentation. [__`seg.`__] 
 
