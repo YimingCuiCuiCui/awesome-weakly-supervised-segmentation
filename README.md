@@ -1,4 +1,4 @@
-# Awesome-Weakly-Supervised-Semantic-Segmentation
+# Awesome-Weakly-Supervised-Segmentation
 
 <h1> 
 
@@ -9,11 +9,9 @@
 </h1>
 
 <h3> Keywords </h3>
-CVPR
 
 
-
-__`img.`__: image level label &emsp; | &emsp; __`box.`__: bounding box 
+__`img.`__: image level label &emsp; | &emsp; __`box.`__: bounding box &emsp; | &emsp; __`box.`__: instance segmentation  &emsp; | &emsp; __`pan.`__: panotic segmentation 
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular & cited in a survey &emsp;|&emsp;
 :sunflower: natural scene images &emsp;|&emsp; :earth_americas: remote sensing images &emsp;|&emsp; :hospital: medical images &emsp;|&emsp; :video_camera: video segmentation
@@ -33,6 +31,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_D3TW_Discriminative_Differentiable_Dynamic_Time_Warping_for_Weakly_Supervised_Action_CVPR_2019_paper.pdf)] D3TW: Discriminative Differentiable Dynamic Time Warping for Weakly Supervised Action Alignment and Segmentation. [__`img.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Collaborative_Learning_of_Semi-Supervised_Segmentation_and_Classification_for_Medical_Images_CVPR_2019_paper.pdf)] Collaborative Learning of Semi-Supervised Segmentation and Classification for Medical Images. [__`img.`__]  :hospital:
 - [[CVPR](https://arxiv.org/abs/1905.01298.pdf)] SCOPS: Self-Supervised Co-Part Segmentation. [[pytorch](https://github.com/NVlabs/SCOPS)][__`img.`__] 
+- [[NIPS](http://papers.nips.cc/paper/8885-weakly-supervised-instance-segmentation-using-the-bounding-box-tightness-prior.pdf)] Weakly Supervised Instance Segmentation using the Bounding Box Tightness Prior. [[pytorch](https://github.com/chengchunhsu/WSIS_BBTP)][__`box.`__] [__`ins.`__]:sunflower:
 - [[ICCV](https://arxiv.org/abs/1909.04161)] JSWS: Joint Learning of Saliency Detection and Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/zengxianyu/jsws)][__`img.`__] :star: :sunflower:
 - [[ICCV](https://arxiv.org/abs/1911.01370)] SSDD: Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation. [[pytorch](https://github.com/shimoda-uec/ssdd)][__`img.`__] :star: :sunflower:
 - [[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chan_HistoSegNet_Semantic_Segmentation_of_Histological_Tissue_Type_in_Whole_Slide_ICCV_2019_paper.pdf)]HistoSegNet: Semantic Segmentation of Histological Tissue Type in Whole Slide Images. [[tensorflow](https://github.com/lyndonchan/hsn_v1)][__`img.`__] :star: :hospital:
@@ -68,7 +67,7 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 - [[AAAI]()] Transferable Semi-supervised Semantic Segmentation. [__`seg.`__] 
 - [[ECCV](https://arxiv.org/abs/1807.04897.pdf)] TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection. [__`seg.`__] 
 - [[ECCV](https://arxiv.org/abs/1807.08902.pdf)] Self-produced Guidance for Weakly-supervised Object Localization. [__`img.`__] 
-- [[ECCV](https://arxiv.org/abs/1808.03575v3)] Weakly- and Semi-Supervised Panoptic Segmentation. [[matlab](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)][__`img.`__] :star: :sunflower:
+- [[ECCV](https://arxiv.org/abs/1808.03575v3)] Weakly- and Semi-Supervised Panoptic Segmentation. [[matlab](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)][__`img.`__][__`ins.`__][__`pan.`__] :star: :sunflower:
 - [[BMVC](https://arxiv.org/abs/1807.09169)] CSPN: Convolutional Simplex Projection Network for Weakly Supervised Semantic Segmentation. [[caffe](https://github.com/briqr/CSPN)][__`img.`__] :star: :sunflower:
 
 
