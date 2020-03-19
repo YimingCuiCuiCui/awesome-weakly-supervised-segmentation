@@ -16,7 +16,7 @@ CVPR
 __`img.`__: image level label &emsp; | &emsp; __`box.`__: bounding box 
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular & cited in a survey &emsp;|&emsp;
-:sunflower: natural scene images &emsp;|&emsp; :earth_americas: remote sensing images &emsp;|&emsp; :hospital: medical images
+:sunflower: natural scene images &emsp;|&emsp; :earth_americas: remote sensing images &emsp;|&emsp; :hospital: medical images &emsp;|&emsp; :video_camera: video segmentation
 
 ---
 ## 2020
@@ -73,13 +73,15 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 ## 2017
 - [[CVPR](https://arxiv.org/abs/1703.08448)]AE-PSL: Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach. [__`img.`__] :star: :sunflower:
 - [[CVPR](http://webia.lip6.fr/~cord/pdfs/publis/Durand_WILDCAT_CVPR_2017.pdf)]WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation. [[pytorch](https://github.com/durandtibo/wildcat.pytorch)][__`img.`__] :star: :sunflower:
-- [[AAAI](https://pdfs.semanticscholar.org/9345/23b3de05318606d4f550f5828cf30a56b1d3.pdf?_ga=2.30714812.2026882509.1564975284-400067050.1564456907)] Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network. [__`img.`__] 
+- [[AAAI](https://pdfs.semanticscholar.org/9345/23b3de05318606d4f550f5828cf30a56b1d3.pdf?_ga=2.30714812.2026882509.1564975284-400067050.1564456907)] Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network. [__`img.`__] :sunflower:
 - [[TPAMI](https://weiyc.github.io/assets/pdf/stc_tpami.pdf)] STC: A Simple to Complex Framework for Weakly-supervised Semantic Segmentation. [__`img.`__] :star: :sunflower:
 - [[TMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7971941)][[arXiv](https://arxiv.org/abs/1701.00794)] Constrained Deep Weak Supervision for Histopathology Image Segmentation. [__`img.`__] :star: :hospital:
 ---
 ## 2016
 - [[ECCV](https://arxiv.org/abs/1603.06098)] SEC: Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation. [[caffe](https://github.com/kolesman/SEC)][[pytorch](https://github.com/halbielee/SEC_pytorch)][__`img.`__] :star: :sunflower:
+- [[ICLR](https://arxiv.org/abs/1511.06309v5)] Spatio-temporal video autoencoder with differentiable memory. [[lua](https://github.com/viorik/ConvLSTM)][__`img.`__] :sunflower: :video_camera:
 ---
+
 ## 2015
 - [[ICCV](https://arxiv.org/abs/1506.03648)] CCNN: Constrained Convolutional Neural Networks for Weakly Supervised Segmentation. [[caffe](https://github.com/pathak22/ccnn)][__`img.`__] :star: :sunflower:
 - [[ICCV](https://arxiv.org/abs/1502.02734v3)] Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation. [[caffe](https://github.com/TheLegendAli/DeepLab-Context)][[caffe](https://github.com/open-cv/deeplab-v1)][__`img.`__] :star: :sunflower:
