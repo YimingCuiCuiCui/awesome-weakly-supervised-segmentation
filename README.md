@@ -35,7 +35,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 2018
-- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0812.pdf)] Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-Supervised Semantic Segmentation. [__`seg.`__] 
+- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0812.pdf)] MDC: Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-Supervised Semantic Segmentation. [__`seg.`__] :star:
 - [[CVPR](https://arxiv.org/pdf/1806.04659.pdf)] Weakly-Supervised Semantic Segmentation by Iteratively Mining Common Object Features.
 - [[CVPR](http://zpascal.net/cvpr2018/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf)] DSRG: Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing. [[caffe](https://github.com/speedinghzl/DSRG)] [__`seg.`__] :star:
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Bootstrapping_the_Performance_CVPR_2018_paper.pdf)] Bootstrapping the Performance of Webly Supervised Semantic Segmentation. [[caffe](https://github.com/ascust/BDWSS)] [__`seg.`__] 
@@ -46,7 +46,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_Normalized_Cut_Loss_CVPR_2018_paper.pdf)] Normalized Cut Loss for Weakly-Supervised CNN Segmentation. [__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Learning_Facial_Action_CVPR_2018_paper.pdf)] Learning Facial Action Units From Web Images With Scalable Weakly Supervised Clustering. [__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Weakly_Supervised_Instance_CVPR_2018_paper.pdf)] Weakly Supervised Instance Segmentation Using Class Peak Response. [__`seg.`__] 
-- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ahn_Learning_Pixel-Level_Semantic_CVPR_2018_paper.pdf)] Learning Pixel-Level Semantic Affinity With Image-Level Supervision for Weakly Supervised Semantic Segmentation. [__`seg.`__] 
+- [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ahn_Learning_Pixel-Level_Semantic_CVPR_2018_paper.pdf)] PSA: Learning Pixel-Level Semantic Affinity With Image-Level Supervision for Weakly Supervised Semantic Segmentation. [__`seg.`__] :star:
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Richard_Action_Sets_Weakly_CVPR_2018_paper.pdf)] Action Sets: Weakly Supervised Action Segmentation Without Ordering Constraints. [__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Weakly-Supervised_Action_Segmentation_CVPR_2018_paper.pdf)] Weakly-Supervised Action Segmentation With Iterative Soft Boundary Assignment. [__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf)] Weakly-Supervised Semantic Segmentation Network With Deep Seeded Region Growing. [__`seg.`__] 
