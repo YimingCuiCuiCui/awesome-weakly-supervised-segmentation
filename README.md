@@ -10,10 +10,7 @@
 
 <h3> Keywords </h3>
 
-__`dat.`__: dataset &emsp; | &emsp; __`cls.`__: classification &emsp; | &emsp; __`rel.`__: retrieval &emsp; | &emsp; __`seg.`__: segmentation     
-__`det.`__: detection &emsp; | &emsp; __`tra.`__: tracking &emsp; | &emsp; __`pos.`__: pose &emsp; | &emsp; __`dep.`__: depth     
-__`reg.`__: registration &emsp; | &emsp; __`rec.`__: reconstruction &emsp; | &emsp; __`aut.`__: autonomous driving     
-__`oth.`__: other, including normal-related, correspondence, mapping, matching, alignment, compression, generative model...
+__`img.`__: image level label &emsp; | &emsp; __`box.`__: bounding box 
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular & cited in a survey &emsp;|&emsp;
 :sunflower: natural scene images &emsp;|&emsp; :earth_americas: remote sensing images &emsp;|&emsp; :hospital: medical images
@@ -21,13 +18,13 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 ---
 ## 2020
 
-- [[AAAI](https://arxiv.org/abs/1911.08039)] RRM: Reliability Does Matter: An End-to-EndWeakly Supervised Semantic Segmentation Approach. [[pytorch](https://github.com/zbf1991/RRM)] [__`seg.`__] :star: :sunflower:
-- [[IEEE Access](https://arxiv.org/abs/1910.05475)] SGAN: Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation. [[pytorch](https://github.com/yaoqi-zd/SGAN)] [__`seg.`__] :star: :sunflower:
+- [[AAAI](https://arxiv.org/abs/1911.08039)] RRM: Reliability Does Matter: An End-to-EndWeakly Supervised Semantic Segmentation Approach. [[pytorch](https://github.com/zbf1991/RRM)] [__`img.`__] :star: :sunflower:
+- [[IEEE Access](https://arxiv.org/abs/1910.05475)] SGAN: Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation. [[pytorch](https://github.com/yaoqi-zd/SGAN)] [__`img.`__] :star: :sunflower:
 ---
 ## 2019
-- [[CVPR](https://arxiv.org/pdf/1904.11693.pdf)] Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation. [__`seg.`__]
-- [[CVPR](https://arxiv.org/pdf/1902.10421.pdf)] FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference. [__`seg.`__] :star: :sunflower:
-- [[CVPR](https://arxiv.org/pdf/1904.05044.pdf)] IRNet: Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations. [[pytorch](https://github.com/jiwoon-ahn/irn)] [__`seg.`__] :star: :sunflower:
+- [[CVPR](https://arxiv.org/pdf/1904.11693.pdf)] Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation. [__`box.`__]
+- [[CVPR](https://arxiv.org/pdf/1902.10421.pdf)] FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference. [__`img.`__] :star: :sunflower:
+- [[CVPR](https://arxiv.org/pdf/1904.05044.pdf)] IRNet: Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations. [[pytorch](https://github.com/jiwoon-ahn/irn)] [__`img.`__] :star: :sunflower:
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_Cyclic_Guidance_for_Weakly_Supervised_Joint_Detection_and_Segmentation_CVPR_2019_paper.pdf)] Cyclic Guidance for Weakly Supervised Joint Detection and Segmentation. [__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Learning_Instance_Activation_Maps_for_Weakly_Supervised_Instance_Segmentation_CVPR_2019_paper.pdf)] Learning Instance Activation Maps for Weakly Supervised Instance Segmentation. [__`seg.`__] 
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_D3TW_Discriminative_Differentiable_Dynamic_Time_Warping_for_Weakly_Supervised_Action_CVPR_2019_paper.pdf)] D3TW: Discriminative Differentiable Dynamic Time Warping for Weakly Supervised Action Alignment and Segmentation. [__`seg.`__] 
@@ -78,8 +75,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[TMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7971941)][[arXiv](https://arxiv.org/abs/1701.00794)] Constrained Deep Weak Supervision for Histopathology Image Segmentation. [__`seg.`__] :star: :hospital:
 ---
 ## 2016
-- [[ECCV](https://arxiv.org/abs/1603.06098)] SEC: Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation. [[caffe](https://github.com/kolesman/SEC)][[pytorch](https://github.com/halbielee/SEC_pytorch)][__`seg.`__] :star: :sunflower:
+- [[ECCV](https://arxiv.org/abs/1603.06098)] SEC: Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation. [[caffe](https://github.com/kolesman/SEC)][[pytorch](https://github.com/halbielee/SEC_pytorch)][__`img.`__] :star: :sunflower:
 ---
 ## 2015
-- [[ICCV](https://arxiv.org/abs/1506.03648)] CCNN: Constrained Convolutional Neural Networks for Weakly Supervised Segmentation. [[caffe](https://github.com/pathak22/ccnn)][__`seg.`__] :star: :sunflower:
-- [[ICCV](https://arxiv.org/abs/1502.02734v3)] Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation. [[caffe](https://github.com/TheLegendAli/DeepLab-Context)][[caffe](https://github.com/open-cv/deeplab-v1)][__`seg.`__] :star: :sunflower:
+- [[ICCV](https://arxiv.org/abs/1506.03648)] CCNN: Constrained Convolutional Neural Networks for Weakly Supervised Segmentation. [[caffe](https://github.com/pathak22/ccnn)][__`img.`__] :star: :sunflower:
+- [[ICCV](https://arxiv.org/abs/1502.02734v3)] Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation. [[caffe](https://github.com/TheLegendAli/DeepLab-Context)][[caffe](https://github.com/open-cv/deeplab-v1)][__`img.`__] :star: :sunflower:
