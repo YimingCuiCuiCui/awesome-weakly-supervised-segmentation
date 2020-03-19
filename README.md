@@ -15,7 +15,7 @@ __`det.`__: detection &emsp; | &emsp; __`tra.`__: tracking &emsp; | &emsp; __`po
 __`reg.`__: registration &emsp; | &emsp; __`rec.`__: reconstruction &emsp; | &emsp; __`aut.`__: autonomous driving     
 __`oth.`__: other, including normal-related, correspondence, mapping, matching, alignment, compression, generative model...
 
-Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50 :cat: natural scene images :sun: remote sensing images :hospital: medical images
+Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular & cited in a survey &emsp;|&emsp; :cat: natural scene images &emsp;|&emsp; :sun: remote sensing images &emsp;|&emsp; :hospital: medical images
 
 ---
 ## 2020
