@@ -20,12 +20,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 
 ---
 ## 2020
-[//]: # ([[CVPR](https://arxiv.org/pdf/1904.11693.pdf)] Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation. [__`seg.`__])
+
 - [[AAAI](https://arxiv.org/abs/1911.08039)] RRM: Reliability Does Matter: An End-to-EndWeakly Supervised Semantic Segmentation Approach. [[pytorch](https://github.com/zbf1991/RRM)] [__`seg.`__] :star: :sunflower:
 - [[IEEE Access](https://arxiv.org/abs/1910.05475)] SGAN: Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation. [[pytorch](https://github.com/yaoqi-zd/SGAN)] [__`seg.`__] :star: :sunflower:
 ---
 ## 2019
-[//]: #(- [[CVPR](https://arxiv.org/pdf/1904.11693.pdf)] Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation. [__`seg.`__] )
+- [[CVPR](https://arxiv.org/pdf/1904.11693.pdf)] Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation. [__`seg.`__]
 - [[CVPR](https://arxiv.org/pdf/1902.10421.pdf)] FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference. [__`seg.`__] :star: :sunflower:
 - [[CVPR](https://arxiv.org/pdf/1904.05044.pdf)] IRNet: Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations. [[pytorch](https://github.com/jiwoon-ahn/irn)] [__`seg.`__] :star: :sunflower:
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_Cyclic_Guidance_for_Weakly_Supervised_Joint_Detection_and_Segmentation_CVPR_2019_paper.pdf)] Cyclic Guidance for Weakly Supervised Joint Detection and Segmentation. [__`seg.`__] 
