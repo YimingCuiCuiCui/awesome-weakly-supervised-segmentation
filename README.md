@@ -11,10 +11,10 @@
 <h3> Keywords </h3>
 
 
-__`img.`__: image level label &emsp; | &emsp; __`box.`__: bounding box &emsp; | &emsp; __`ins.`__: instance segmentation  &emsp; | &emsp; __`pan.`__: panotic segmentation 
+__`img.`__: image level label &emsp; | &emsp; __`vid.`__: video level label &emsp; | &emsp; __`box.`__: bounding box label &emsp; | &emsp; __`ins.`__: instance segmentation  &emsp; | &emsp; __`pan.`__: panotic segmentation 
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular & cited in a survey &emsp;|&emsp;
-:sunflower: natural scene images &emsp;|&emsp; :earth_americas: remote sensing images &emsp;|&emsp; :hospital: medical images &emsp;|&emsp; :video_camera: video segmentation
+:sunflower: natural scene images &emsp;|&emsp; :earth_americas: remote sensing images &emsp;|&emsp; :hospital: medical images 
 
 ---
 ## 2020
@@ -33,7 +33,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[NIPS](http://papers.nips.cc/paper/8885-weakly-supervised-instance-segmentation-using-the-bounding-box-tightness-prior.pdf)] Weakly Supervised Instance Segmentation using the Bounding Box Tightness Prior. [[pytorch](https://github.com/chengchunhsu/WSIS_BBTP)][__`box.`__,__``__]:sunflower:
 - [[ICCV](https://arxiv.org/abs/1909.04161)] JSWS: Joint Learning of Saliency Detection and Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/zengxianyu/jsws)][__`img.`__] :star: :sunflower:
 - [[ICCV](https://arxiv.org/abs/1911.01370)] SSDD: Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation. [[pytorch](https://github.com/shimoda-uec/ssdd)][__`img.`__] :star: :sunflower:
-- [[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chan_HistoSegNet_Semantic_Segmentation_of_Histological_Tissue_Type_in_Whole_Slide_ICCV_2019_paper.pdf)]HistoSegNet: Semantic Segmentation of Histological Tissue Type in Whole Slide Images. [[tensorflow](https://github.com/lyndonchan/hsn_v1)][__`img.`__] :star: :hospital:
+- [[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chan_HistoSegNet_Semantic_Segmentation_of_Histological_Tissue_Type_in_Whole_Slide_ICCV_2019_paper.pdf)] HistoSegNet: Semantic Segmentation of Histological Tissue Type in Whole Slide Images. [[tensorflow](https://github.com/lyndonchan/hsn_v1)][__`img.`__] :star: :hospital:
 - [[ICCV](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9009076)] Integral Object Mining via Online Attention Accumulation. [[pytorch](https://github.com/PengtaoJiang/OAA)][[pytorch_v2](https://github.com/PengtaoJiang/OAA-PyTorch)][__`img.`__] :sunflower:
 - [[IJCAI](https://www.researchgate.net/publication/334844257_Boundary_Perception_Guidance_A_Scribble-Supervised_Semantic_Segmentation_Approach)] Boundary Perception Guidance: A Scribble-Supervised Semantic Segmentation Approach. [__`box.`__]  :sunflower:
 - [[AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/3860)] Weakly-Supervised Simultaneous Evidence Identification and Segmentation for Automated Glaucoma Diagnosis. [__`img.`__] :hospital: 
@@ -61,16 +61,17 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 
 ---
 ## 2017
-- [[CVPR](https://arxiv.org/abs/1703.08448)]AE-PSL: Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach. [__`img.`__] :star: :sunflower:
-- [[CVPR](http://webia.lip6.fr/~cord/pdfs/publis/Durand_WILDCAT_CVPR_2017.pdf)]WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation. [[pytorch](https://github.com/durandtibo/wildcat.pytorch)][__`img.`__] :star: :sunflower:
+- [[CVPR](https://arxiv.org/abs/1703.08448)] AE-PSL: Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach. [__`img.`__] :star: :sunflower:
+- [[CVPR](http://webia.lip6.fr/~cord/pdfs/publis/Durand_WILDCAT_CVPR_2017.pdf)] WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation. [[pytorch](https://github.com/durandtibo/wildcat.pytorch)][__`img.`__] :star: :sunflower:
 - [[AAAI](https://pdfs.semanticscholar.org/9345/23b3de05318606d4f550f5828cf30a56b1d3.pdf?_ga=2.30714812.2026882509.1564975284-400067050.1564456907)] Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network. [__`img.`__] :sunflower:
-- [[BMVC](https://arxiv.org/abs/1707.05821v1)]DCSP: Discovering Class Specific Pixels for Weakly Supervised Semantic Segmentation. [[tensorflow](https://github.com/arslan-chaudhry/dcsp_segmentation)][__`img.`__] :sunflower:
+- [[BMVC](https://arxiv.org/abs/1707.05821v1)] DCSP: Discovering Class Specific Pixels for Weakly Supervised Semantic Segmentation. [[tensorflow](https://github.com/arslan-chaudhry/dcsp_segmentation)][__`img.`__] :sunflower:
 - [[TPAMI](https://weiyc.github.io/assets/pdf/stc_tpami.pdf)] STC: A Simple to Complex Framework for Weakly-supervised Semantic Segmentation. [__`img.`__] :star: :sunflower:
 - [[TMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7971941)][[arXiv](https://arxiv.org/abs/1701.00794)] Constrained Deep Weak Supervision for Histopathology Image Segmentation. [__`img.`__] :star: :hospital:
 ---
 ## 2016
 - [[ECCV](https://arxiv.org/abs/1603.06098)] SEC: Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation. [[caffe](https://github.com/kolesman/SEC)][[pytorch](https://github.com/halbielee/SEC_pytorch)][__`img.`__] :star: :sunflower:
-- [[ICLR](https://arxiv.org/abs/1511.06309v5)] Spatio-temporal video autoencoder with differentiable memory. [[lua](https://github.com/viorik/ConvLSTM)][__`img.`__] :sunflower: :video_camera:
+- [[ECCV](https://hal.archives-ouvertes.fr/hal-01292794/document)] Weakly-Supervised Semantic Segmentation using Motion Cues [__`vid.`__]  :sunflower:
+- [[ICLR](https://arxiv.org/abs/1511.06309v5)] Spatio-temporal video autoencoder with differentiable memory. [[lua](https://github.com/viorik/ConvLSTM)][__`vid.`__] :sunflower: 
 ---
 
 ## 2015
