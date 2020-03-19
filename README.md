@@ -11,13 +11,7 @@
 <h3> Keywords </h3>
 
 
-__`img.`__: image level label &emsp; | &emsp; __`box.`__: bounding box &emsp; | &emsp; __`box.`__: 
-
-
-
-
-
-tance segmentation  &emsp; | &emsp; __`pan.`__: panotic segmentation 
+__`img.`__: image level label &emsp; | &emsp; __`box.`__: bounding box &emsp; | &emsp; __`ins.`__: instance segmentation  &emsp; | &emsp; __`pan.`__: panotic segmentation 
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular & cited in a survey &emsp;|&emsp;
 :sunflower: natural scene images &emsp;|&emsp; :earth_americas: remote sensing images &emsp;|&emsp; :hospital: medical images &emsp;|&emsp; :video_camera: video segmentation
