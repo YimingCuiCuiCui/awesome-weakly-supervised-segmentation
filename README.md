@@ -51,7 +51,7 @@ __`oth.`__: other, including normal-related, correspondence, mapping, matching, 
 - [[AAAI]()] Transferable Semi-supervised Semantic Segmentation. [__`seg.`__] 
 - [[ECCV](https://arxiv.org/abs/1807.04897.pdf)] TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection. [__`seg.`__] 
 - [[ECCV](https://arxiv.org/abs/1807.08902.pdf)] Self-produced Guidance for Weakly-supervised Object Localization. [__`seg.`__] 
-
+- [[BMVC](https://arxiv.org/abs/1807.09169)] Convolutional Simplex Projection Network (CSPN) for Weakly Supervised Semantic Segmentation. [[caffe](https://github.com/briqr/CSPN)][__`seg.`__] 
 
 
 ---
