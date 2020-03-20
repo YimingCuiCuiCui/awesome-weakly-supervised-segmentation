@@ -25,7 +25,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[IJCV](https://arxiv.org/abs/2002.08098)] Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning. [__`img.`__] :sunflower:
 - [[TIP](https://arxiv.org/abs/1904.09092)] Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes. [__`img.`__,__`pan.`__] :sunflower:
 - [[IEEE Access](https://arxiv.org/abs/1910.05475)] SGAN: Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation. [[pytorch](https://github.com/yaoqi-zd/SGAN)] [__`img.`__] :star: :sunflower:
-- [[arXiv](https://arxiv.org/abs/2002.08254)] Weakly Supervised Semantic Segmentation of Satellite Images for Land Cover Mapping -- Challenges and Opportunities [__`img.`__] :earth_americas:
+- [[arXiv](https://arxiv.org/abs/2002.08254)] Weakly Supervised Semantic Segmentation of Satellite Images for Land Cover Mapping -- Challenges and Opportunities. [__`img.`__] :earth_americas:
 ---
 ## 2019
 - [[CVPR](https://arxiv.org/pdf/1904.11693.pdf)] Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation. [__`box.`__] :sunflower:
@@ -35,6 +35,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Learning_Instance_Activation_Maps_for_Weakly_Supervised_Instance_Segmentation_CVPR_2019_paper.pdf)] Learning Instance Activation Maps for Weakly Supervised Instance Segmentation. [__`img.`__,__`ins.`__] :sunflower:
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Collaborative_Learning_of_Semi-Supervised_Segmentation_and_Classification_for_Medical_Images_CVPR_2019_paper.pdf)] Collaborative Learning of Semi-Supervised Segmentation and Classification for Medical Images. [__`img.`__]  :hospital:
 - [[CVPR](https://arxiv.org/abs/1905.01298.pdf)] SCOPS: Self-Supervised Co-Part Segmentation. [[pytorch](https://github.com/NVlabs/SCOPS)][__`img.`__] :sunflower:
+- [[CVPRW](https://arxiv.org/abs/1905.05880)] Budget-aware Semi-Supervised Semantic and Instance Segmentation. [__`img.`__] :sunflower:
 - [[NIPS](http://papers.nips.cc/paper/8885-weakly-supervised-instance-segmentation-using-the-bounding-box-tightness-prior.pdf)] Weakly Supervised Instance Segmentation using the Bounding Box Tightness Prior. [[pytorch](https://github.com/chengchunhsu/WSIS_BBTP)][__`box.`__,__`ins`__]:sunflower:
 - [[ICCV](https://arxiv.org/abs/1909.04161)] JSWS: Joint Learning of Saliency Detection and Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/zengxianyu/jsws)][__`img.`__] :star: :sunflower:
 - [[ICCV](https://arxiv.org/abs/1911.01370)] SSDD: Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation. [[pytorch](https://github.com/shimoda-uec/ssdd)][__`img.`__] :star: :sunflower:
@@ -81,8 +82,8 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 ---
 ## 2016
 - [[ECCV](https://arxiv.org/abs/1603.06098)] SEC: Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation. [[caffe](https://github.com/kolesman/SEC)][[pytorch](https://github.com/halbielee/SEC_pytorch)][__`img.`__] :star: :sunflower:
-- [[ECCV](https://hal.archives-ouvertes.fr/hal-01292794/document)] Weakly-Supervised Semantic Segmentation using Motion Cues [__`vid.`__]  :sunflower:
-- [[ECCV](http://img.cs.uec.ac.jp/pub/conf16/161011shimok_0.pdf)] Distinct Class-Specific Saliency Maps for Weakly Supervised Semantic Segmentation [__`img.`__]  :earth_americas:
+- [[ECCV](https://hal.archives-ouvertes.fr/hal-01292794/document)] Weakly-Supervised Semantic Segmentation using Motion Cues. [__`vid.`__]  :sunflower:
+- [[ECCV](http://img.cs.uec.ac.jp/pub/conf16/161011shimok_0.pdf)] Distinct Class-Specific Saliency Maps for Weakly Supervised Semantic Segmentation. [__`img.`__]  :earth_americas:
 - [[ICLR](https://arxiv.org/abs/1511.06309v5)] Spatio-temporal video autoencoder with differentiable memory. [[lua](https://github.com/viorik/ConvLSTM)][__`vid.`__] :sunflower: 
 - [[TGRS](https://ieeexplore.ieee.org/abstract/document/7414501)] Semantic Annotation of High-Resolution Satellite Images via Weakly Supervised Learning [__`img.`__]  :earth_americas:
 ---
