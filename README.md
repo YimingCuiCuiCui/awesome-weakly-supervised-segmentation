@@ -50,6 +50,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/3860)] Weakly-Supervised Simultaneous Evidence Identification and Segmentation for Automated Glaucoma Diagnosis. [__`img.`__] :hospital: 
 - [[AAAI](https://arxiv.org/pdf/1807.11719.pdf)] A Two-Stream Mutual Attention Network for Semi-supervised Biomedical Segmentation with Noisy Labels. [__`img.`__] :hospital: 
 - [[WACV](https://arxiv.org/abs/1705.01262)] Learning to segment with image-level supervision. [__`img.`__] :sunflower: 
+- [[MICCAI](https://arxiv.org/abs/1911.02014)] Scribble-based Hierarchical Weakly Supervised Learning for Brain Tumor Segmentation. [__`img.`__] :hospital: 
+- [[MICCAI](https://arxiv.org/abs/1911.13077)] Weakly Supervised Cell Instance Segmentation by Propagating from Detection Response. [[pytorch](https://github.com/naivete5656/WSISPDR)][__`img.`__,__`ins.`__] :hospital: 
+- [[ICIP](https://arxiv.org/abs/2001.11248)] Weakly Supervised Segmentation of Cracks on Solar Cells using Normalized Lp Norm. [__`img.`__] :hospital: 
+- [[ICMLA](https://arxiv.org/abs/1911.01738)] Weakly Supervised Fine Tuning Approach for Brain Tumor Segmentation Problem. [__`img.`__] :hospital: 
 - [[TIP](https://arxiv.org/abs/1804.04882)] Learning to Exploit the Prior Network Knowledge for Weakly-Supervised Semantic Segmentation. [[caffe](https://github.com/gramuah/weakly-supervised-segmentation)] [__`img.`__] :star: :sunflower:
 - [[TMM](https://ieeexplore.ieee.org/document/8705324),[arXiv](https://arxiv.org/abs/1803.02563)] Decoupled Spatial Neural Attention for Weakly Supervised Semantic Segmentation [__`img.`__] :sunflower:
 - [[MIA](https://www.sciencedirect.com/science/article/pii/S1361841518306145?via%3Dihub)] Constrained-CNN losses for weakly supervised segmentation. [[pytorch](https://github.com/LIVIAETS/SizeLoss_WSS)][[caffe](https://github.com/meng-tang/rloss)] [__`img.`__] :star: :hospital:
