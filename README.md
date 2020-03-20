@@ -21,7 +21,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[ICLR](https://arxiv.org/abs/1906.06558v2)] Mask Based Unsupervised Content Transfer. [[pytorch](https://github.com/rmokady/mbu-content-tansfer)] [__`img.`__] :sunflower:
 - [[ICLR](https://arxiv.org/abs/1906.07647)] Weakly Supervised Clustering by Exploiting Unique Class Count. [__`img.`__] :hospital:
 - [[AAAI](https://arxiv.org/abs/1911.08039)] RRM: Reliability Does Matter: An End-to-EndWeakly Supervised Semantic Segmentation Approach. [[pytorch](https://github.com/zbf1991/RRM)] [__`img.`__] :star: :sunflower:
-- [[AAAI](https://arxiv.org/abs/1811.10842)] https://arxiv.org/pdf/1811.10842.pdf. [[mxnet](https://github.com/js-fan/CIAN)] [__`img.`__] :sunflower:
+- [[AAAI](https://arxiv.org/abs/1811.10842)] CIAN: Cross-Image Affinity Net for Weakly Supervised Semantic Segmentation. [[mxnet](https://github.com/js-fan/CIAN)] [__`img.`__] :sunflower:
 - [[IJCV](https://arxiv.org/abs/2002.08098)] Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning. [__`img.`__] :sunflower:
 - [[TIP](https://arxiv.org/abs/1904.09092)] Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes. [__`img.`__,__`pan.`__] :sunflower:
 - [[IEEE Access](https://arxiv.org/abs/1910.05475)] SGAN: Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation. [[pytorch](https://github.com/yaoqi-zd/SGAN)] [__`img.`__] :star: :sunflower:
@@ -71,14 +71,16 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 - [[CVPR](https://arxiv.org/abs/1802.10171)] Tell Me Where to Look: Guided Attention Inference Network. [__`img.`__] :sunflower:
 - [[AAAI](https://arxiv.org/pdf/1711.06828.pdf)] Transferable Semi-supervised Semantic Segmentation. [__`img.`__]  :sunflower:
 - [[ECCV](https://arxiv.org/abs/1808.03575v3)] Weakly- and Semi-Supervised Panoptic Segmentation. [[matlab](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)][__`img.`__,__`ins.`__,__`pan.`__] :star: :sunflower:
+- [[ECCV](https://arxiv.org/abs/1803.09569)] On Regularized Losses for Weakly-supervised CNN Segmentation[__`img.`__] :sunflower:
 - [[BMVC](https://arxiv.org/abs/1807.09169)] CSPN: Convolutional Simplex Projection Network for Weakly Supervised Semantic Segmentation. [[caffe](https://github.com/briqr/CSPN)][__`img.`__] :star: :sunflower:
-
-
+- [[GCPR](https://arxiv.org/abs/1807.02001)] Acquire, Augment, Segment & Enjoy: Weakly Supervised Instance Segmentation of Supermarket Products. [__`img.`__] :sunflower:
+- [[arXiv](https://arxiv.org/abs/1808.01625)] Towards Closing the Gap in Weakly Supervised Semantic Segmentation with DCNNs: Combining Local and Global Models. [__`img.`__] :sunflower:
 ---
 ## 2017
 - [[CVPR](https://arxiv.org/abs/1703.08448)] AE-PSL: Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach. [__`img.`__] :star: :sunflower:
 - [[CVPR](http://webia.lip6.fr/~cord/pdfs/publis/Durand_WILDCAT_CVPR_2017.pdf)] WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation. [[pytorch](https://github.com/durandtibo/wildcat.pytorch)][__`img.`__] :star: :sunflower:
 - [[CVPR](https://arxiv.org/abs/1701.00352)] Weakly Supervised Semantic Segmentation using Web-Crawled Videos. [__`img.`__] :sunflower:
+- [[CVPR](https://arxiv.org/abs/1802.00470)] Learning Random-walk Label Propagation for Weakly-supervised Semantic Segmentation. [__`img.`__] :sunflower:
 - [[AAAI](https://pdfs.semanticscholar.org/9345/23b3de05318606d4f550f5828cf30a56b1d3.pdf?_ga=2.30714812.2026882509.1564975284-400067050.1564456907)] Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network. [__`img.`__] :sunflower:
 - [[BMVC](https://arxiv.org/abs/1707.05821v1)] DCSP: Discovering Class Specific Pixels for Weakly Supervised Semantic Segmentation. [[tensorflow](https://github.com/arslan-chaudhry/dcsp_segmentation)][__`img.`__] :sunflower:
 - [[TPAMI](https://weiyc.github.io/assets/pdf/stc_tpami.pdf)] STC: A Simple to Complex Framework for Weakly-supervised Semantic Segmentation. [__`img.`__] :star: :sunflower:
