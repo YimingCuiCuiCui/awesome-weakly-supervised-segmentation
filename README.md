@@ -28,7 +28,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[arXiv](https://arxiv.org/abs/2002.08254)] Weakly Supervised Semantic Segmentation of Satellite Images for Land Cover Mapping -- Challenges and Opportunities. [__`img.`__] :earth_americas:
 - [[arXiv](https://arxiv.org/abs/2001.11207)] Weakly Supervised Instance Segmentation by Deep Community Learning. [__`img.`__,__`ins.`__] :sunflower:
 - [[arXiv](https://arxiv.org/abs/1802.02212)] Classification and Disease Localization in Histopathology Using Only Global Labels: A Weakly-Supervised Approach. [__`img.`__] :hospital:
-
+- [[arXiv](https://arxiv.org/abs/2001.09174)] Weakly Supervised Lesion Co-segmentation on CT Scans. [__`img.`__] :hospital:
 ---
 ## 2019
 - [[CVPR](https://arxiv.org/pdf/1904.11693.pdf)] Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation. [__`box.`__] :sunflower:
@@ -46,11 +46,14 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[ICCV](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9009076)] Integral Object Mining via Online Attention Accumulation. [[pytorch](https://github.com/PengtaoJiang/OAA)][[pytorch_v2](https://github.com/PengtaoJiang/OAA-PyTorch)][__`img.`__] :sunflower:
 - [[ICCV](https://arxiv.org/abs/1908.04501)] Frame-to-Frame Aggregation of Active Regions in Web Videos for Weakly Supervised Semantic Segmentation. [__`img.`__] :sunflower:
 - [[ICCV](https://arxiv.org/abs/1908.07669)] Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation.  [[pytorch](https://github.com/JiahuaDong/ICCV2019Publication-Semantic-Transferable-Weakly-Supervised-Endoscopic-Lesions-Segmentation)][__`img.`__] :hospital:
+- [[ICCV](https://arxiv.org/abs/1910.02624)] Label-PEnet: Sequential Label Propagation and Enhancement Networks for Weakly Supervised Instance Segmentation. [__`img.`__] :sunflower:
+- [[ICCVW](https://arxiv.org/abs/1912.08936)] One-Shot Weakly Supervised Video Object Segmentation. [__`vid.`__] :sunflower:
 - [[IJCAI](https://www.researchgate.net/publication/334844257_Boundary_Perception_Guidance_A_Scribble-Supervised_Semantic_Segmentation_Approach)] Boundary Perception Guidance: A Scribble-Supervised Semantic Segmentation Approach. [__`box.`__]  :sunflower:
 - [[AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/3860)] Weakly-Supervised Simultaneous Evidence Identification and Segmentation for Automated Glaucoma Diagnosis. [__`img.`__] :hospital: 
 - [[AAAI](https://arxiv.org/pdf/1807.11719.pdf)] A Two-Stream Mutual Attention Network for Semi-supervised Biomedical Segmentation with Noisy Labels. [__`img.`__] :hospital: 
 - [[WACV](https://arxiv.org/abs/1705.01262)] Learning to segment with image-level supervision. [__`img.`__] :sunflower: 
 - [[MICCAI](https://arxiv.org/abs/1911.02014)] Scribble-based Hierarchical Weakly Supervised Learning for Brain Tumor Segmentation. [__`img.`__] :hospital: 
+- [[MICCAI](https://arxiv.org/abs/1910.01236)] Weakly Supervised Segmentation from Extreme Points. [__`img.`__] :hospital: 
 - [[MICCAI](https://arxiv.org/abs/1911.13077)] Weakly Supervised Cell Instance Segmentation by Propagating from Detection Response. [[pytorch](https://github.com/naivete5656/WSISPDR)][__`img.`__,__`ins.`__] :hospital: 
 - [[ICIP](https://arxiv.org/abs/2001.11248)] Weakly Supervised Segmentation of Cracks on Solar Cells using Normalized Lp Norm. [__`img.`__] :hospital: 
 - [[ICMLA](https://arxiv.org/abs/1911.01738)] Weakly Supervised Fine Tuning Approach for Brain Tumor Segmentation Problem. [__`img.`__] :hospital: 
@@ -64,7 +67,7 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 - [[arXiv](https://arxiv.org/abs/1905.12190)] Closed-Loop Adaptation for Weakly-Supervised Semantic Segmentation [__`img.`__] :sunflower:
 - [[arXiv](https://arxiv.org/abs/1906.04651)] Gated CRF Loss for Weakly Supervised Semantic Image Segmentation [[pytorch](https://github.com/LEONOB2014/GatedCRFLoss)][__`img.`__] :sunflower:
 - [[arXiv](https://arxiv.org/abs/1904.01749)] Fully Using Classifiers for Weakly Supervised Semantic Segmentation with Modified Cues. [__`img.`__] :sunflower:
-
+- [[arXiv](https://arxiv.org/abs/1910.12326)] Weakly Supervised Multi-Task Learning for Cell Detection and Segmentation. [__`img.`__] :hospital:
 ---
 ## 2018
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0812.pdf)] MDC: Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-Supervised Semantic Segmentation. [__`img.`__] :star: :sunflower:
