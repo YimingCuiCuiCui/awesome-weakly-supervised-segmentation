@@ -27,6 +27,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[IEEE Access](https://arxiv.org/abs/1910.05475)] SGAN: Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation. [[pytorch](https://github.com/yaoqi-zd/SGAN)] [__`img.`__] :star: :sunflower:
 - [[arXiv](https://arxiv.org/abs/2002.08254)] Weakly Supervised Semantic Segmentation of Satellite Images for Land Cover Mapping -- Challenges and Opportunities. [__`img.`__] :earth_americas:
 - [[arXiv](https://arxiv.org/abs/2001.11207)] Weakly Supervised Instance Segmentation by Deep Community Learning. [__`img.`__,__`ins.`__] :sunflower:
+- [[arXiv](https://arxiv.org/abs/1802.02212)] Classification and Disease Localization in Histopathology Using Only Global Labels: A Weakly-Supervised Approach. [__`img.`__] :hospital:
 
 ---
 ## 2019
@@ -85,6 +86,7 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 - [[CVPR](https://arxiv.org/abs/1802.00470)] Learning Random-walk Label Propagation for Weakly-supervised Semantic Segmentation. [__`img.`__] :sunflower:
 - [[CVPR](https://arxiv.org/abs/1703.08448)] Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach. [__`img.`__] :sunflower:
 - [[ICCV](https://arxiv.org/abs/1708.04400)] Bringing Background into the Foreground: Making All Classes Equal in Weakly-supervised Video Semantic Segmentation. [__`vid.`__] :sunflower:
+ [[ICCV](https://arxiv.org/abs/1703.09695)] Semi and Weakly Supervised Semantic Segmentation Using Generative Adversarial Network. [__`vid.`__] :sunflower:
 - [[AAAI](https://pdfs.semanticscholar.org/9345/23b3de05318606d4f550f5828cf30a56b1d3.pdf?_ga=2.30714812.2026882509.1564975284-400067050.1564456907)] Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network. [__`img.`__] :sunflower:
 - [[BMVC](https://arxiv.org/abs/1707.05821v1)] DCSP: Discovering Class Specific Pixels for Weakly Supervised Semantic Segmentation. [[tensorflow](https://github.com/arslan-chaudhry/dcsp_segmentation)][__`img.`__] :sunflower:
 - [[BMVC](https://arxiv.org/abs/1705.09052)] Weakly Supervised Semantic Segmentation Based on Web Image Co-segmentation. [[mxnet](https://github.com/ascust/wsscoseg)][__`img.`__] :sunflower:
