@@ -108,6 +108,8 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 - [[EMMCVPR](https://arxiv.org/abs/1612.02101)] Bottom-Up Top-Down Cues for Weakly-Supervised Semantic Segmentation. [__`img.`__]  :sunflower:
 - [[TGRS](https://ieeexplore.ieee.org/abstract/document/7414501)] Semantic Annotation of High-Resolution Satellite Images via Weakly Supervised Learning [__`img.`__]  :earth_americas:
 - [[arXiv](https://arxiv.org/abs/1612.02766)] Feedback Neural Network for Weakly Supervised Geo-Semantic Segmentation. [__`img.`__]  :earth_americas:
+- [[arXiv](https://arxiv.org/abs/1602.04984)] Deconvolutional Feature Stacking for Weakly-Supervised Semantic Segmentation. [__`img.`__]  :hospital:
+
 ---
 
 ## 2015
