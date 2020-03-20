@@ -21,6 +21,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[ICLR](https://arxiv.org/abs/1906.06558v2)] Mask Based Unsupervised Content Transfer. [[pytorch](https://github.com/rmokady/mbu-content-tansfer)] [__`img.`__] :sunflower:
 - [[AAAI](https://arxiv.org/abs/1911.08039)] RRM: Reliability Does Matter: An End-to-EndWeakly Supervised Semantic Segmentation Approach. [[pytorch](https://github.com/zbf1991/RRM)] [__`img.`__] :star: :sunflower:
 - [[IEEE Access](https://arxiv.org/abs/1910.05475)] SGAN: Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation. [[pytorch](https://github.com/yaoqi-zd/SGAN)] [__`img.`__] :star: :sunflower:
+- [[arXiv](https://arxiv.org/abs/2002.08254)] Weakly Supervised Semantic Segmentation of Satellite Images for Land Cover Mapping -- Challenges and Opportunities [__`img.`__] :earth_americas:
 ---
 ## 2019
 - [[CVPR](https://arxiv.org/pdf/1904.11693.pdf)] Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation. [__`box.`__] :sunflower:
@@ -40,6 +41,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[AAAI](https://arxiv.org/pdf/1807.11719.pdf)] A Two-Stream Mutual Attention Network for Semi-supervised Biomedical Segmentation with Noisy Labels. [__`img.`__] :hospital: 
 - [[TIP](https://arxiv.org/abs/1804.04882)] Learning to Exploit the Prior Network Knowledge for Weakly-Supervised Semantic Segmentation. [[caffe](https://github.com/gramuah/weakly-supervised-segmentation)] [__`img.`__] :star: :sunflower:
 - [[MIA](https://www.sciencedirect.com/science/article/pii/S1361841518306145?via%3Dihub)] Constrained-CNN losses for weakly supervised segmentation. [[pytorch](https://github.com/LIVIAETS/SizeLoss_WSS)][[caffe](https://github.com/meng-tang/rloss)] [__`img.`__] :star: :hospital:
+- [[JURSE](https://arxiv.org/abs/1904.03983)] Weakly Supervised Semantic Segmentation of Satellite Images [__`img.`__] :earth_americas:
 - [[arXiv](https://arxiv.org/abs/1909.03714)] SSENet: Self-supervised Scale Equivariant Network for Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/YudeWang/SSENet-pytorch)] [__`img.`__] :star: :sunflower:
 - [[arXiv](https://arxiv.org/abs/1912.11186v1)] A Comprehensive Analysis of Weakly-Supervised Semantic
 Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndonchan/wsss-analysis)] [__`img.`__] :star: :hospital:
@@ -72,8 +74,9 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 ## 2016
 - [[ECCV](https://arxiv.org/abs/1603.06098)] SEC: Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation. [[caffe](https://github.com/kolesman/SEC)][[pytorch](https://github.com/halbielee/SEC_pytorch)][__`img.`__] :star: :sunflower:
 - [[ECCV](https://hal.archives-ouvertes.fr/hal-01292794/document)] Weakly-Supervised Semantic Segmentation using Motion Cues [__`vid.`__]  :sunflower:
-- [[ECCV](http://img.cs.uec.ac.jp/pub/conf16/161011shimok_0.pdf)] Distinct Class-Specific Saliency Maps for Weakly Supervised Semantic Segmentation [__`img.`__]  :earth_americans:
+- [[ECCV](http://img.cs.uec.ac.jp/pub/conf16/161011shimok_0.pdf)] Distinct Class-Specific Saliency Maps for Weakly Supervised Semantic Segmentation [__`img.`__]  :earth_americas:
 - [[ICLR](https://arxiv.org/abs/1511.06309v5)] Spatio-temporal video autoencoder with differentiable memory. [[lua](https://github.com/viorik/ConvLSTM)][__`vid.`__] :sunflower: 
+- [[TGRS](https://ieeexplore.ieee.org/abstract/document/7414501)] Semantic Annotation of High-Resolution Satellite Images via Weakly Supervised Learning [__`img.`__]  :earth_americas:
 ---
 
 ## 2015
