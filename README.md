@@ -48,6 +48,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[IJCAI](https://www.researchgate.net/publication/334844257_Boundary_Perception_Guidance_A_Scribble-Supervised_Semantic_Segmentation_Approach)] Boundary Perception Guidance: A Scribble-Supervised Semantic Segmentation Approach. [__`box.`__]  :sunflower:
 - [[AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/3860)] Weakly-Supervised Simultaneous Evidence Identification and Segmentation for Automated Glaucoma Diagnosis. [__`img.`__] :hospital: 
 - [[AAAI](https://arxiv.org/pdf/1807.11719.pdf)] A Two-Stream Mutual Attention Network for Semi-supervised Biomedical Segmentation with Noisy Labels. [__`img.`__] :hospital: 
+- [[WACV](https://arxiv.org/abs/1705.01262)] Learning to segment with image-level supervision. [__`img.`__] :sunflower: 
 - [[TIP](https://arxiv.org/abs/1804.04882)] Learning to Exploit the Prior Network Knowledge for Weakly-Supervised Semantic Segmentation. [[caffe](https://github.com/gramuah/weakly-supervised-segmentation)] [__`img.`__] :star: :sunflower:
 - [[TMM](https://ieeexplore.ieee.org/document/8705324),[arXiv](https://arxiv.org/abs/1803.02563)] Decoupled Spatial Neural Attention for Weakly Supervised Semantic Segmentation [__`img.`__] :sunflower:
 - [[MIA](https://www.sciencedirect.com/science/article/pii/S1361841518306145?via%3Dihub)] Constrained-CNN losses for weakly supervised segmentation. [[pytorch](https://github.com/LIVIAETS/SizeLoss_WSS)][[caffe](https://github.com/meng-tang/rloss)] [__`img.`__] :star: :hospital:
@@ -82,9 +83,11 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 - [[CVPR](http://webia.lip6.fr/~cord/pdfs/publis/Durand_WILDCAT_CVPR_2017.pdf)] WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation. [[pytorch](https://github.com/durandtibo/wildcat.pytorch)][__`img.`__] :star: :sunflower:
 - [[CVPR](https://arxiv.org/abs/1701.00352)] Weakly Supervised Semantic Segmentation using Web-Crawled Videos. [__`img.`__] :sunflower:
 - [[CVPR](https://arxiv.org/abs/1802.00470)] Learning Random-walk Label Propagation for Weakly-supervised Semantic Segmentation. [__`img.`__] :sunflower:
+- [[CVPR](https://arxiv.org/abs/1703.08448)] Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach. [__`img.`__] :sunflower:
 - [[ICCV](https://arxiv.org/abs/1708.04400)] Bringing Background into the Foreground: Making All Classes Equal in Weakly-supervised Video Semantic Segmentation. [__`vid.`__] :sunflower:
 - [[AAAI](https://pdfs.semanticscholar.org/9345/23b3de05318606d4f550f5828cf30a56b1d3.pdf?_ga=2.30714812.2026882509.1564975284-400067050.1564456907)] Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network. [__`img.`__] :sunflower:
 - [[BMVC](https://arxiv.org/abs/1707.05821v1)] DCSP: Discovering Class Specific Pixels for Weakly Supervised Semantic Segmentation. [[tensorflow](https://github.com/arslan-chaudhry/dcsp_segmentation)][__`img.`__] :sunflower:
+- [[BMVC](https://arxiv.org/abs/1705.09052)] Weakly Supervised Semantic Segmentation Based on Web Image Co-segmentation. [[mxnet](https://github.com/ascust/wsscoseg)][__`img.`__] :sunflower:
 - [[TPAMI](https://weiyc.github.io/assets/pdf/stc_tpami.pdf)] STC: A Simple to Complex Framework for Weakly-supervised Semantic Segmentation. [__`img.`__] :star: :sunflower:
 - [[TPAMI](https://arxiv.org/abs/1710.01457)] Learning to Segment Human by WatchingYouTube. [__`vid.`__] :sunflower:
 - [[TPAMI](https://arxiv.org/abs/1708.02459)] Weakly-Supervised Image Annotation and Segmentation with Objects and Attributes. [__`img.`__] :sunflower:
