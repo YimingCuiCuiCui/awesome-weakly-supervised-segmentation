@@ -72,6 +72,7 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 ## 2016
 - [[ECCV](https://arxiv.org/abs/1603.06098)] SEC: Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation. [[caffe](https://github.com/kolesman/SEC)][[pytorch](https://github.com/halbielee/SEC_pytorch)][__`img.`__] :star: :sunflower:
 - [[ECCV](https://hal.archives-ouvertes.fr/hal-01292794/document)] Weakly-Supervised Semantic Segmentation using Motion Cues [__`vid.`__]  :sunflower:
+- [[ECCV](http://img.cs.uec.ac.jp/pub/conf16/161011shimok_0.pdf)] Distinct Class-Specific Saliency Maps for Weakly Supervised Semantic Segmentation [__`img.`__]  :earth_americans:
 - [[ICLR](https://arxiv.org/abs/1511.06309v5)] Spatio-temporal video autoencoder with differentiable memory. [[lua](https://github.com/viorik/ConvLSTM)][__`vid.`__] :sunflower: 
 ---
 
