@@ -85,11 +85,15 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 - [[CVPR](https://arxiv.org/abs/1701.00352)] Weakly Supervised Semantic Segmentation using Web-Crawled Videos. [__`img.`__] :sunflower:
 - [[CVPR](https://arxiv.org/abs/1802.00470)] Learning Random-walk Label Propagation for Weakly-supervised Semantic Segmentation. [__`img.`__] :sunflower:
 - [[CVPR](https://arxiv.org/abs/1703.08448)] Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach. [__`img.`__] :sunflower:
+- [[CVPR](https://arxiv.org/abs/1605.02964)] Weakly Supervised Learning of Affordances. [__`img.`__] :sunflower:
+- [[CVPR](https://arxiv.org/abs/1603.07485)] Simple Does It: Weakly Supervised Instance and Semantic Segmentation. [[tensorflow](https://github.com/johnnylu305/Simple-does-it-weakly-supervised-instance-and-semantic-segmentation)][__`img.`__] :sunflower:
 - [[ICCV](https://arxiv.org/abs/1708.04400)] Bringing Background into the Foreground: Making All Classes Equal in Weakly-supervised Video Semantic Segmentation. [__`vid.`__] :sunflower:
  [[ICCV](https://arxiv.org/abs/1703.09695)] Semi and Weakly Supervised Semantic Segmentation Using Generative Adversarial Network. [__`vid.`__] :sunflower:
 - [[AAAI](https://pdfs.semanticscholar.org/9345/23b3de05318606d4f550f5828cf30a56b1d3.pdf?_ga=2.30714812.2026882509.1564975284-400067050.1564456907)] Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network. [__`img.`__] :sunflower:
+- [[ICRA](https://arxiv.org/abs/1610.01238)] Find Your Own Way: Weakly-Supervised Segmentation of Path Proposals for Urban Autonomy. [__`img.`__,__`pan.`__] :sunflower:
 - [[BMVC](https://arxiv.org/abs/1707.05821v1)] DCSP: Discovering Class Specific Pixels for Weakly Supervised Semantic Segmentation. [[tensorflow](https://github.com/arslan-chaudhry/dcsp_segmentation)][__`img.`__] :sunflower:
 - [[BMVC](https://arxiv.org/abs/1705.09052)] Weakly Supervised Semantic Segmentation Based on Web Image Co-segmentation. [[mxnet](https://github.com/ascust/wsscoseg)][__`img.`__] :sunflower:
+ [[ACCV](https://arxiv.org/abs/1606.02280)] Semi-Supervised Domain Adaptation for Weakly Labeled Semantic Video Object Segmentation. [__`vid.`__] :sunflower:
 - [[TPAMI](https://weiyc.github.io/assets/pdf/stc_tpami.pdf)] STC: A Simple to Complex Framework for Weakly-supervised Semantic Segmentation. [__`img.`__] :star: :sunflower:
 - [[TPAMI](https://arxiv.org/abs/1710.01457)] Learning to Segment Human by WatchingYouTube. [__`vid.`__] :sunflower:
 - [[TPAMI](https://arxiv.org/abs/1708.02459)] Weakly-Supervised Image Annotation and Segmentation with Objects and Attributes. [__`img.`__] :sunflower:
@@ -99,8 +103,11 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 - [[ECCV](https://arxiv.org/abs/1603.06098)] SEC: Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation. [[caffe](https://github.com/kolesman/SEC)][[pytorch](https://github.com/halbielee/SEC_pytorch)][__`img.`__] :star: :sunflower:
 - [[ECCV](https://hal.archives-ouvertes.fr/hal-01292794/document)] Weakly-Supervised Semantic Segmentation using Motion Cues. [__`vid.`__]  :sunflower:
 - [[ECCV](http://img.cs.uec.ac.jp/pub/conf16/161011shimok_0.pdf)] Distinct Class-Specific Saliency Maps for Weakly Supervised Semantic Segmentation. [__`img.`__]  :earth_americas:
+- [[ECCV](https://arxiv.org/abs/1609.00446)] Built-in Foreground/Background Prior for Weakly-Supervised Semantic Segmentation. [__`img.`__]  :sunflower:
 - [[ICLR](https://arxiv.org/abs/1511.06309v5)] Spatio-temporal video autoencoder with differentiable memory. [[lua](https://github.com/viorik/ConvLSTM)][__`vid.`__] :sunflower: 
+- [[EMMCVPR](https://arxiv.org/abs/1612.02101)] Bottom-Up Top-Down Cues for Weakly-Supervised Semantic Segmentation. [__`img.`__]  :sunflower:
 - [[TGRS](https://ieeexplore.ieee.org/abstract/document/7414501)] Semantic Annotation of High-Resolution Satellite Images via Weakly Supervised Learning [__`img.`__]  :earth_americas:
+- [[arXiv](https://arxiv.org/abs/1612.02766)] Feedback Neural Network for Weakly Supervised Geo-Semantic Segmentation. [__`img.`__]  :earth_americas:
 ---
 
 ## 2015
