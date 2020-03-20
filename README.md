@@ -45,10 +45,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[AAAI](https://arxiv.org/pdf/1807.11719.pdf)] A Two-Stream Mutual Attention Network for Semi-supervised Biomedical Segmentation with Noisy Labels. [__`img.`__] :hospital: 
 - [[TIP](https://arxiv.org/abs/1804.04882)] Learning to Exploit the Prior Network Knowledge for Weakly-Supervised Semantic Segmentation. [[caffe](https://github.com/gramuah/weakly-supervised-segmentation)] [__`img.`__] :star: :sunflower:
 - [[MIA](https://www.sciencedirect.com/science/article/pii/S1361841518306145?via%3Dihub)] Constrained-CNN losses for weakly supervised segmentation. [[pytorch](https://github.com/LIVIAETS/SizeLoss_WSS)][[caffe](https://github.com/meng-tang/rloss)] [__`img.`__] :star: :hospital:
-- [[JURSE](https://arxiv.org/abs/1904.03983)] Weakly Supervised Semantic Segmentation of Satellite Images [__`img.`__] :earth_americas:
+- [[JURSE](https://arxiv.org/abs/1904.03983)] Weakly Supervised Semantic Segmentation of Satellite Images. [__`img.`__] :earth_americas:
 - [[arXiv](https://arxiv.org/abs/1909.03714)] SSENet: Self-supervised Scale Equivariant Network for Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/YudeWang/SSENet-pytorch)] [__`img.`__] :star: :sunflower:
 - [[arXiv](https://arxiv.org/abs/1912.11186v1)] A Comprehensive Analysis of Weakly-Supervised Semantic
 Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndonchan/wsss-analysis)] [__`img.`__] :star: :hospital:
+- [[arXiv](https://arxiv.org/abs/1905.12190)] Closed-Loop Adaptation for Weakly-Supervised Semantic Segmentation [__`img.`__] :sunflower:
+- [[arXiv](https://arxiv.org/abs/1906.04651)] Gated CRF Loss for Weakly Supervised Semantic Image Segmentation [[pytorch](https://github.com/LEONOB2014/GatedCRFLoss)][__`img.`__] :sunflower:
 ---
 ## 2018
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0812.pdf)] MDC: Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-Supervised Semantic Segmentation. [__`img.`__] :star: :sunflower:
