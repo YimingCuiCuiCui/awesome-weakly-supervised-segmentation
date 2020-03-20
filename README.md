@@ -19,9 +19,11 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 ---
 ## 2020
 - [[ICLR](https://arxiv.org/abs/1906.06558v2)] Mask Based Unsupervised Content Transfer. [[pytorch](https://github.com/rmokady/mbu-content-tansfer)] [__`img.`__] :sunflower:
+- [[ICLR](https://arxiv.org/abs/1906.07647)] Weakly Supervised Clustering by Exploiting Unique Class Count. [__`img.`__] :hospital:
 - [[AAAI](https://arxiv.org/abs/1911.08039)] RRM: Reliability Does Matter: An End-to-EndWeakly Supervised Semantic Segmentation Approach. [[pytorch](https://github.com/zbf1991/RRM)] [__`img.`__] :star: :sunflower:
+- [[AAAI](https://arxiv.org/abs/1811.10842)] https://arxiv.org/pdf/1811.10842.pdf. [[mxnet](https://github.com/js-fan/CIAN)] [__`img.`__] :sunflower:
 - [[IJCV](https://arxiv.org/abs/2002.08098)] Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning. [__`img.`__] :sunflower:
-
+- [[TIP](https://arxiv.org/abs/1904.09092)] Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes. [__`img.`__,__`pan.`__] :sunflower:
 - [[IEEE Access](https://arxiv.org/abs/1910.05475)] SGAN: Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation. [[pytorch](https://github.com/yaoqi-zd/SGAN)] [__`img.`__] :star: :sunflower:
 - [[arXiv](https://arxiv.org/abs/2002.08254)] Weakly Supervised Semantic Segmentation of Satellite Images for Land Cover Mapping -- Challenges and Opportunities [__`img.`__] :earth_americas:
 ---
