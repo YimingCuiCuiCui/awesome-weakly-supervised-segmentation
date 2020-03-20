@@ -59,6 +59,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndonchan/wsss-analysis)] [__`img.`__] :star: :hospital:
 - [[arXiv](https://arxiv.org/abs/1905.12190)] Closed-Loop Adaptation for Weakly-Supervised Semantic Segmentation [__`img.`__] :sunflower:
 - [[arXiv](https://arxiv.org/abs/1906.04651)] Gated CRF Loss for Weakly Supervised Semantic Image Segmentation [[pytorch](https://github.com/LEONOB2014/GatedCRFLoss)][__`img.`__] :sunflower:
+- [[arXiv](https://arxiv.org/abs/1904.01749)] Fully Using Classifiers for Weakly Supervised Semantic Segmentation with Modified Cues. [__`img.`__] :sunflower:
+
 ---
 ## 2018
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0812.pdf)] MDC: Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-Supervised Semantic Segmentation. [__`img.`__] :star: :sunflower:
@@ -78,6 +80,8 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 - [[GCPR](https://arxiv.org/abs/1807.02001)] Acquire, Augment, Segment & Enjoy: Weakly Supervised Instance Segmentation of Supermarket Products. [__`img.`__] :sunflower:
 - [[TPAMI](https://arxiv.org/abs/1706.02189)] Incorporating Network Built-in Priors in Weakly-supervised Semantic Segmentation. [__`img.`__] :sunflower:
 - [[arXiv](https://arxiv.org/abs/1808.01625)] Towards Closing the Gap in Weakly Supervised Semantic Segmentation with DCNNs: Combining Local and Global Models. [__`img.`__] :sunflower:
+- [[arXiv](https://arxiv.org/abs/1810.07050)] Generating Self-Guided Dense Annotations for Weakly Supervised Semantic Segmentation. [__`img.`__] :sunflower:
+
 ---
 ## 2017
 - [[CVPR](https://arxiv.org/abs/1703.08448)] AE-PSL: Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach. [__`img.`__] :star: :sunflower:
