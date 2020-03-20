@@ -20,6 +20,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 ## 2020
 - [[ICLR](https://arxiv.org/abs/1906.06558v2)] Mask Based Unsupervised Content Transfer. [[pytorch](https://github.com/rmokady/mbu-content-tansfer)] [__`img.`__] :sunflower:
 - [[AAAI](https://arxiv.org/abs/1911.08039)] RRM: Reliability Does Matter: An End-to-EndWeakly Supervised Semantic Segmentation Approach. [[pytorch](https://github.com/zbf1991/RRM)] [__`img.`__] :star: :sunflower:
+- [[IJCV](https://arxiv.org/abs/2002.08098)] Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning. [__`img.`__] :sunflower:
+
 - [[IEEE Access](https://arxiv.org/abs/1910.05475)] SGAN: Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation. [[pytorch](https://github.com/yaoqi-zd/SGAN)] [__`img.`__] :star: :sunflower:
 - [[arXiv](https://arxiv.org/abs/2002.08254)] Weakly Supervised Semantic Segmentation of Satellite Images for Land Cover Mapping -- Challenges and Opportunities [__`img.`__] :earth_americas:
 ---
@@ -36,6 +38,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[ICCV](https://arxiv.org/abs/1911.01370)] SSDD: Self-Supervised Difference Detection for Weakly-Supervised Semantic Segmentation. [[pytorch](https://github.com/shimoda-uec/ssdd)][__`img.`__] :star: :sunflower:
 - [[ICCV](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chan_HistoSegNet_Semantic_Segmentation_of_Histological_Tissue_Type_in_Whole_Slide_ICCV_2019_paper.pdf)] HistoSegNet: Semantic Segmentation of Histological Tissue Type in Whole Slide Images. [[tensorflow](https://github.com/lyndonchan/hsn_v1)][__`img.`__] :star: :hospital:
 - [[ICCV](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9009076)] Integral Object Mining via Online Attention Accumulation. [[pytorch](https://github.com/PengtaoJiang/OAA)][[pytorch_v2](https://github.com/PengtaoJiang/OAA-PyTorch)][__`img.`__] :sunflower:
+- [[ICCV](https://arxiv.org/abs/1908.04501)] Frame-to-Frame Aggregation of Active Regions in Web Videos for Weakly Supervised Semantic Segmentation. [__`img.`__] :sunflower:
+- [[ICCV](https://arxiv.org/abs/1908.07669)] Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation.  [[pytorch](https://github.com/JiahuaDong/ICCV2019Publication-Semantic-Transferable-Weakly-Supervised-Endoscopic-Lesions-Segmentation)][__`img.`__] :hospital:
 - [[IJCAI](https://www.researchgate.net/publication/334844257_Boundary_Perception_Guidance_A_Scribble-Supervised_Semantic_Segmentation_Approach)] Boundary Perception Guidance: A Scribble-Supervised Semantic Segmentation Approach. [__`box.`__]  :sunflower:
 - [[AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/3860)] Weakly-Supervised Simultaneous Evidence Identification and Segmentation for Automated Glaucoma Diagnosis. [__`img.`__] :hospital: 
 - [[AAAI](https://arxiv.org/pdf/1807.11719.pdf)] A Two-Stream Mutual Attention Network for Semi-supervised Biomedical Segmentation with Noisy Labels. [__`img.`__] :hospital: 
