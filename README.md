@@ -71,7 +71,7 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 ---
 ## 2018
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0812.pdf)] MDC: Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-Supervised Semantic Segmentation. [__`img.`__] :star: :sunflower:
-- [[CVPR](http://zpascal.net/cvpr2018/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf)] DSRG: Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing. [[caffe](https://github.com/speedinghzl/DSRG)] [__`img.`__] :star: :sunflower:
+- [[CVPR](http://zpascal.net/cvpr2018/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf)] DSRG: Weakly-Supervised Semantic Segmentation Network with Deep Seeded Region Growing. [[caffe](https://github.com/speedinghzl/DSRG)][[tensorflow](https://github.com/xtudbxk/DSRG-tensorflow)] [__`img.`__] :star: :sunflower:
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Bootstrapping_the_Performance_CVPR_2018_paper.pdf)] Bootstrapping the Performance of Webly Supervised Semantic Segmentation. [[caffe](https://github.com/ascust/BDWSS)] [__`img.`__]  :sunflower:
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Weakly_Supervised_Instance_CVPR_2018_paper.pdf)] Weakly Supervised Instance Segmentation using Class Peak Response.  [[pytorch](https://github.com/ZhouYanzhao/PRM)][__`img.`__,__`ins.`__] :sunflower:
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ge_Multi-Evidence_Filtering_and_CVPR_2018_paper.pdf)] Multi-Evidence Filtering and Fusion for Multi-Label Classification, Object Detection and Semantic Segmentation Based on Weakly Supervised Learning. [__`img.`__] :sunflower:
