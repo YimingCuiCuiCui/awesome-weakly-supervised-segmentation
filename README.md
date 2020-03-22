@@ -99,7 +99,7 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 - [[CVPR](https://arxiv.org/abs/1605.02964)] Weakly Supervised Learning of Affordances. [__`img.`__] :sunflower:
 - [[CVPR](https://arxiv.org/abs/1603.07485)] Simple Does It: Weakly Supervised Instance and Semantic Segmentation. [[tensorflow](https://github.com/johnnylu305/Simple-does-it-weakly-supervised-instance-and-semantic-segmentation)][__`img.`__] :sunflower:
 - [[ICCV](https://arxiv.org/abs/1708.04400)] Bringing Background into the Foreground: Making All Classes Equal in Weakly-supervised Video Semantic Segmentation. [__`vid.`__] :sunflower:
- [[ICCV](https://arxiv.org/abs/1703.09695)] Semi and Weakly Supervised Semantic Segmentation Using Generative Adversarial Network. [__`vid.`__] :sunflower:
+- [[ICCV](https://arxiv.org/abs/1703.09695)] Semi and Weakly Supervised Semantic Segmentation Using Generative Adversarial Network. [__`vid.`__] :sunflower:
 - [[AAAI](https://pdfs.semanticscholar.org/9345/23b3de05318606d4f550f5828cf30a56b1d3.pdf?_ga=2.30714812.2026882509.1564975284-400067050.1564456907)] Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network. [__`img.`__] :sunflower:
 - [[ICRA](https://arxiv.org/abs/1610.01238)] Find Your Own Way: Weakly-Supervised Segmentation of Path Proposals for Urban Autonomy. [__`img.`__,__`pan.`__] :sunflower:
 - [[BMVC](https://arxiv.org/abs/1707.05821v1)] DCSP: Discovering Class Specific Pixels for Weakly Supervised Semantic Segmentation. [[tensorflow](https://github.com/arslan-chaudhry/dcsp_segmentation)][__`img.`__] :sunflower:
