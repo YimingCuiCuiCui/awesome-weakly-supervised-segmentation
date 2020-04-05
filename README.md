@@ -23,7 +23,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[AAAI](https://arxiv.org/abs/1911.08039)] RRM: Reliability Does Matter: An End-to-EndWeakly Supervised Semantic Segmentation Approach. [[pytorch](https://github.com/zbf1991/RRM)] [__`img.`__] :star: :sunflower:
 - [[AAAI](https://arxiv.org/abs/1811.10842)] CIAN: Cross-Image Affinity Net for Weakly Supervised Semantic Segmentation. [[mxnet](https://github.com/js-fan/CIAN)] [__`img.`__] :sunflower:
 - [[IJCV](https://arxiv.org/abs/2002.08098)] Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning. [__`img.`__] :sunflower:
-- [[TIP](https://arxiv.org/abs/1904.09092)] Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes. [__`img.`__,__`pan.`__] :sunflower:
+- [[TIP](https://arxiv.org/abs/1904.09092)] Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes. [__`box.`__,__`pan.`__] :sunflower:
 - [[IEEE Access](https://arxiv.org/abs/1910.05475)] SGAN: Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation. [[pytorch](https://github.com/yaoqi-zd/SGAN)] [__`img.`__] :star: :sunflower:
 - [[arXiv](https://arxiv.org/abs/2002.08254)] Weakly Supervised Semantic Segmentation of Satellite Images for Land Cover Mapping -- Challenges and Opportunities. [__`img.`__] :earth_americas:
 - [[arXiv](https://arxiv.org/abs/2001.11207)] Weakly Supervised Instance Segmentation by Deep Community Learning. [__`img.`__,__`ins.`__] :sunflower:
