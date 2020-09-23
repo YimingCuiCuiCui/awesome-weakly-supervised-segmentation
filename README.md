@@ -18,6 +18,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 
 ---
 ## 2020
+- [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740341.pdf)] Regularized Loss for Weakly Supervised Single Class Semantic Segmentation. [__`img.`__] :sunflower:
+- [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720290.pdf)] Box2Seg: Attention Weighted Loss and Discriminative Feature Learning for Weakly Supervised Segmentation. [__`box.`__] :sunflower:
+- [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670664.pdf)] Splitting vs. Merging: Mining Object Regions with Discrepancy and Intersection Loss for Weakly Supervised Semantic Segmentation. [__`img.`__] :sunflower:
 - [[ECCV](https://arxiv.org/abs/2007.09397)] Weakly Supervised Instance Segmentation by Learning Annotation Consistent Instances. [__`img.`__,__`ins.`__] :sunflower:
 - [[ECCV](https://arxiv.org/abs/2007.01947)] Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation. [[Caffe](https://github.com/GuoleiSun/MCIS_wsss)][__`img.`__] :sunflower:
 - [[ICLR](https://arxiv.org/abs/1906.06558v2)] Mask Based Unsupervised Content Transfer. [[pytorch](https://github.com/rmokady/mbu-content-tansfer)] [__`img.`__] :sunflower:
