@@ -1,4 +1,4 @@
-# awesome-weakly-supervised-segmentation
+# Awesome-Weakly-Supervised-Segmentation[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <h1> 
 
