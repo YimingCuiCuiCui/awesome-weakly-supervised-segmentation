@@ -18,6 +18,11 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 
 ---
 ## 2020
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_Learning_Integral_Objects_With_Intra-Class_Discriminator_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2020_paper.html)] Learning Integral Objects with Intra-Class Discriminator for Weakly-Supervised Semantic Segmentation. [[Mxnet](https://github.com/js-fan/ICD)] [__`img.`__] :sunflower:
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Chang_Weakly-Supervised_Semantic_Segmentation_via_Sub-Category_Exploration_CVPR_2020_paper.html)] Weakly-Supervised Semantic Segmentation via Sub-Category Exploration. [[pytorch](https://github.com/Juliachang/SC-CAM)] [__`img.`__] :sunflower:
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Self-Supervised_Equivariant_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2020_paper.html)] Self-supervised Equivariant Attention Mechanism
+for Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/YudeWang/SEAM)] [__`img.`__] :sunflower:
+
 - [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740341.pdf)] Regularized Loss for Weakly Supervised Single Class Semantic Segmentation. [__`img.`__] :sunflower:
 - [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720290.pdf)] Box2Seg: Attention Weighted Loss and Discriminative Feature Learning for Weakly Supervised Segmentation. [__`box.`__] :sunflower:
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670664.pdf)] Splitting vs. Merging: Mining Object Regions with Discrepancy and Intersection Loss for Weakly Supervised Semantic Segmentation. [__`img.`__] :sunflower:
