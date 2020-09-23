@@ -46,7 +46,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[ICCV](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9009076)] Integral Object Mining via Online Attention Accumulation. [[pytorch](https://github.com/PengtaoJiang/OAA)][[pytorch_v2](https://github.com/PengtaoJiang/OAA-PyTorch)][__`img.`__] :sunflower:
 - [[ICCV](https://arxiv.org/abs/1908.04501)] Frame-to-Frame Aggregation of Active Regions in Web Videos for Weakly Supervised Semantic Segmentation. [__`img.`__] :sunflower:
 - [[ICCV](https://arxiv.org/abs/1908.07669)] Semantic-Transferable Weakly-Supervised Endoscopic Lesions Segmentation.  [[pytorch](https://github.com/JiahuaDong/ICCV2019Publication-Semantic-Transferable-Weakly-Supervised-Endoscopic-Lesions-Segmentation)][__`img.`__] :hospital:
-- [[ICCV](https://arxiv.org/abs/1910.02624)] Label-PEnet: Sequential Label Propagation and Enhancement Networks for Weakly Supervised Instance Segmentation. [__`img.`__] :sunflower:
+- [[ICCV](https://arxiv.org/abs/1910.02624)] Label-PEnet: Sequential Label Propagation and Enhancement Networks for Weakly Supervised Instance Segmentation. [__`img.`__,__`ins.`__] :sunflower:
 - [[ICCVW](https://arxiv.org/abs/1912.08936)] One-Shot Weakly Supervised Video Object Segmentation. [__`vid.`__] :sunflower:
 - [[IJCAI](https://www.researchgate.net/publication/334844257_Boundary_Perception_Guidance_A_Scribble-Supervised_Semantic_Segmentation_Approach)] Boundary Perception Guidance: A Scribble-Supervised Semantic Segmentation Approach. [__`box.`__]  :sunflower:
 - [[AAAI](https://www.aaai.org/ojs/index.php/AAAI/article/view/3860)] Weakly-Supervised Simultaneous Evidence Identification and Segmentation for Automated Glaucoma Diagnosis. [__`img.`__] :hospital: 
@@ -84,7 +84,7 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 - [[ECCV](https://arxiv.org/abs/1808.03575v3)] Weakly- and Semi-Supervised Panoptic Segmentation. [[matlab](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)][__`img.`__,__`ins.`__,__`pan.`__] :star: :sunflower:
 - [[ECCV](https://arxiv.org/abs/1803.09569)] On Regularized Losses for Weakly-supervised CNN Segmentation[__`img.`__] :sunflower:
 - [[BMVC](https://arxiv.org/abs/1807.09169)] CSPN: Convolutional Simplex Projection Network for Weakly Supervised Semantic Segmentation. [[caffe](https://github.com/briqr/CSPN)][__`img.`__] :star: :sunflower:
-- [[GCPR](https://arxiv.org/abs/1807.02001)] Acquire, Augment, Segment & Enjoy: Weakly Supervised Instance Segmentation of Supermarket Products. [__`img.`__] :sunflower:
+- [[GCPR](https://arxiv.org/abs/1807.02001)] Acquire, Augment, Segment & Enjoy: Weakly Supervised Instance Segmentation of Supermarket Products. [__`img.`__,,__`ins.`__] :sunflower:
 - [[TPAMI](https://arxiv.org/abs/1706.02189)] Incorporating Network Built-in Priors in Weakly-supervised Semantic Segmentation. [__`img.`__] :sunflower:
 - [[arXiv](https://arxiv.org/abs/1808.01625)] Towards Closing the Gap in Weakly Supervised Semantic Segmentation with DCNNs: Combining Local and Global Models. [__`img.`__] :sunflower:
 - [[arXiv](https://arxiv.org/abs/1810.07050)] Generating Self-Guided Dense Annotations for Weakly Supervised Semantic Segmentation. [__`img.`__] :sunflower:
@@ -97,7 +97,7 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 - [[CVPR](https://arxiv.org/abs/1802.00470)] Learning Random-walk Label Propagation for Weakly-supervised Semantic Segmentation. [__`img.`__] :sunflower:
 - [[CVPR](https://arxiv.org/abs/1703.08448)] Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach. [__`img.`__] :sunflower:
 - [[CVPR](https://arxiv.org/abs/1605.02964)] Weakly Supervised Learning of Affordances. [__`img.`__] :sunflower:
-- [[CVPR](https://arxiv.org/abs/1603.07485)] Simple Does It: Weakly Supervised Instance and Semantic Segmentation. [[tensorflow](https://github.com/johnnylu305/Simple-does-it-weakly-supervised-instance-and-semantic-segmentation)][__`img.`__] :sunflower:
+- [[CVPR](https://arxiv.org/abs/1603.07485)] Simple Does It: Weakly Supervised Instance and Semantic Segmentation. [[tensorflow](https://github.com/johnnylu305/Simple-does-it-weakly-supervised-instance-and-semantic-segmentation)][__`img.`__,__`ins.`__] :sunflower:
 - [[ICCV](https://arxiv.org/abs/1708.04400)] Bringing Background into the Foreground: Making All Classes Equal in Weakly-supervised Video Semantic Segmentation. [__`vid.`__] :sunflower:
 - [[ICCV](https://arxiv.org/abs/1703.09695)] Semi and Weakly Supervised Semantic Segmentation Using Generative Adversarial Network. [__`vid.`__] :sunflower:
 - [[AAAI](https://pdfs.semanticscholar.org/9345/23b3de05318606d4f550f5828cf30a56b1d3.pdf?_ga=2.30714812.2026882509.1564975284-400067050.1564456907)] Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network. [__`img.`__] :sunflower:
