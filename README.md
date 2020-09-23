@@ -18,6 +18,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 
 ---
 ## 2020
+- [[ECCV](https://arxiv.org/abs/2007.09397)] Weakly Supervised Instance Segmentation by Learning Annotation Consistent Instances. [__`img.`__] :sunflower:
+
 - [[ICLR](https://arxiv.org/abs/1906.06558v2)] Mask Based Unsupervised Content Transfer. [[pytorch](https://github.com/rmokady/mbu-content-tansfer)] [__`img.`__] :sunflower:
 - [[ICLR](https://arxiv.org/abs/1906.07647)] Weakly Supervised Clustering by Exploiting Unique Class Count. [__`img.`__] :hospital:
 - [[AAAI](https://arxiv.org/abs/1911.08039)] RRM: Reliability Does Matter: An End-to-EndWeakly Supervised Semantic Segmentation Approach. [[pytorch](https://github.com/zbf1991/RRM)] [__`img.`__] :star: :sunflower:
