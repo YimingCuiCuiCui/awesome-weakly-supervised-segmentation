@@ -41,6 +41,7 @@ for Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/YudeW
 - [[arXiv](https://arxiv.org/abs/2001.11207)] Weakly Supervised Instance Segmentation by Deep Community Learning. [__`img.`__,__`ins.`__] :sunflower:
 - [[arXiv](https://arxiv.org/abs/1802.02212)] Classification and Disease Localization in Histopathology Using Only Global Labels: A Weakly-Supervised Approach. [__`img.`__] :hospital:
 - [[arXiv](https://arxiv.org/abs/2001.09174)] Weakly Supervised Lesion Co-segmentation on CT Scans. [__`img.`__] :hospital:
+- [[arXiv](https://arxiv.org/abs/1812.04831v1)] Weakly Supervised Instance Segmentation Using Hybrid Networks. [__`img.`__] :sunflower:
 - [[arXiv](https://arxiv.org/abs/2006.07834)] Multi-Miner: Object-Adaptive Region Mining for Weakly-Supervised Semantic Segmentation. [__`img.`__] :sunflower:
 ---
 ## 2019
