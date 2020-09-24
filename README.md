@@ -11,19 +11,21 @@
 <h3> Keywords </h3>
 
 
-__`img.`__: image level label &emsp; | &emsp; __`vid.`__: video level label &emsp; | &emsp; __`box.`__: bounding box label &emsp; | &emsp; __`ins.`__: instance segmentation  &emsp; | &emsp; __`pan.`__: panotic segmentation 
+__`img.`__: image level label &emsp; | &emsp; __`vid.`__: video level label &emsp; | &emsp; __`box.`__: bounding box label &emsp; | &emsp; __`ins.`__: instance segmentation  &emsp; | &emsp; __`pan.`__: panotic segmentation &emsp; | &emsp;  __`point.`__: point cloud segmentation
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular & cited in a survey &emsp;|&emsp;
 :sunflower: natural scene images &emsp;|&emsp; :earth_americas: remote sensing images &emsp;|&emsp; :hospital: medical images 
 
 ---
 ## 2020
-- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_Learning_Integral_Objects_With_Intra-Class_Discriminator_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2020_paper.html)] Learning Integral Objects with Intra-Class Discriminator for Weakly-Supervised Semantic Segmentation. [[Mxnet](https://github.com/js-fan/ICD)] [__`img.`__] :sunflower:
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Wei_Multi-Path_Region_Mining_for_Weakly_Supervised_3D_Semantic_Segmentation_on_CVPR_2020_paper.html)] Multi-Path Region Mining for Weakly Supervised 3D Semantic Segmentation on Point Clouds. [[tensorflow](https://github.com/plusmultiply/mprm)] [__`point.`__] 
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Weakly_Supervised_Semantic_Point_Cloud_Segmentation_Towards_10x_Fewer_Labels_CVPR_2020_paper.html)] Weakly Supervised Semantic Point Cloud Segmentation: Towards 10x Fewer Labels. [[tensorflow](https://github.com/alex-xun-xu/WeakSupPointCloudSeg)] [__`point.`__] 
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_Learning_Integral_Objects_With_Intra-Class_Discriminator_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2020_paper.html)] Learning Integral Objects with Intra-Class Discriminator for Weakly-Supervised Semantic Segmentation. [[mxnet](https://github.com/js-fan/ICD)] [__`img.`__] :sunflower:
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Chang_Weakly-Supervised_Semantic_Segmentation_via_Sub-Category_Exploration_CVPR_2020_paper.html)] Weakly-Supervised Semantic Segmentation via Sub-Category Exploration. [[pytorch](https://github.com/Juliachang/SC-CAM)] [__`img.`__] :sunflower:
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Self-Supervised_Equivariant_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2020_paper.html)] Self-supervised Equivariant Attention Mechanism
 for Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/YudeWang/SEAM)] [__`img.`__] :sunflower:
-
 - [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740341.pdf)] Regularized Loss for Weakly Supervised Single Class Semantic Segmentation. [__`img.`__] :sunflower:
+- [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710341.pdf)]  Weakly Supervised Semantic Segmentation with Boundary Exploration. [__`box.`__] :sunflower:
 - [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720290.pdf)] Box2Seg: Attention Weighted Loss and Discriminative Feature Learning for Weakly Supervised Segmentation. [__`box.`__] :sunflower:
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670664.pdf)] Splitting vs. Merging: Mining Object Regions with Discrepancy and Intersection Loss for Weakly Supervised Semantic Segmentation. [__`img.`__] :sunflower:
 - [[ECCV](https://arxiv.org/abs/2007.09397)] Weakly Supervised Instance Segmentation by Learning Annotation Consistent Instances. [__`img.`__,__`ins.`__] :sunflower:
@@ -39,6 +41,7 @@ for Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/YudeW
 - [[arXiv](https://arxiv.org/abs/2001.11207)] Weakly Supervised Instance Segmentation by Deep Community Learning. [__`img.`__,__`ins.`__] :sunflower:
 - [[arXiv](https://arxiv.org/abs/1802.02212)] Classification and Disease Localization in Histopathology Using Only Global Labels: A Weakly-Supervised Approach. [__`img.`__] :hospital:
 - [[arXiv](https://arxiv.org/abs/2001.09174)] Weakly Supervised Lesion Co-segmentation on CT Scans. [__`img.`__] :hospital:
+- [[arXiv](https://arxiv.org/abs/2006.07834)] Multi-Miner: Object-Adaptive Region Mining for Weakly-Supervised Semantic Segmentation. [__`img.`__] :sunflower:
 ---
 ## 2019
 - [[CVPR](https://arxiv.org/pdf/1904.11693.pdf)] Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation. [__`box.`__] :sunflower:
