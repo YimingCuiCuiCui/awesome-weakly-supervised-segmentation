@@ -18,7 +18,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 
 ---
 ## 2020
-- [[AAAI](https://arxiv.org/abs/1811.10842)] CIAN: Cross-Image Affinity Net for Weakly Supervised Semantic Segmentation. [[tensorflow](https://github.com/plusmultiply/mprm)] [__`point.`__] 
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Wei_Multi-Path_Region_Mining_for_Weakly_Supervised_3D_Semantic_Segmentation_on_CVPR_2020_paper.html)] Multi-Path Region Mining for Weakly Supervised 3D Semantic Segmentation on Point Clouds. [[tensorflow](https://github.com/plusmultiply/mprm)] [__`point.`__] 
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Weakly_Supervised_Semantic_Point_Cloud_Segmentation_Towards_10x_Fewer_Labels_CVPR_2020_paper.html)] Weakly Supervised Semantic Point Cloud Segmentation: Towards 10x Fewer Labels. [[tensorflow](https://github.com/alex-xun-xu/WeakSupPointCloudSeg)] [__`point.`__] 
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_Learning_Integral_Objects_With_Intra-Class_Discriminator_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2020_paper.html)] Learning Integral Objects with Intra-Class Discriminator for Weakly-Supervised Semantic Segmentation. [[mxnet](https://github.com/js-fan/ICD)] [__`img.`__] :sunflower:
@@ -35,6 +34,7 @@ for Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/YudeW
 - [[ICLR](https://arxiv.org/abs/1906.07647)] Weakly Supervised Clustering by Exploiting Unique Class Count. [__`img.`__] :hospital:
 - [[AAAI](https://arxiv.org/abs/1911.08039)] RRM: Reliability Does Matter: An End-to-EndWeakly Supervised Semantic Segmentation Approach. [[pytorch](https://github.com/zbf1991/RRM)] [__`img.`__] :star: :sunflower:
 - [[AAAI](https://arxiv.org/abs/1811.10842)] CIAN: Cross-Image Affinity Net for Weakly Supervised Semantic Segmentation. [[mxnet](https://github.com/js-fan/CIAN)] [__`img.`__] :sunflower:
+- [[AAAI](https://www.researchgate.net/publication/342540606_Learning_Saliency-Free_Model_with_Generic_Features_for_Weakly-Supervised_Semantic_Segmentation)] Learning Saliency-Free Model with Generic Features for Weakly-Supervised Semantic Segmentation. [__`img.`__] :sunflower:
 - [[IJCV](https://arxiv.org/abs/2002.08098)] Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning. [__`img.`__] :sunflower:
 - [[TIP](https://arxiv.org/abs/1904.09092)] Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes. [__`box.`__,__`pan.`__] :sunflower:
 - [[IEEE Access](https://arxiv.org/abs/1910.05475)] SGAN: Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation. [[pytorch](https://github.com/yaoqi-zd/SGAN)] [__`img.`__] :star: :sunflower:
