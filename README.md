@@ -18,7 +18,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 
 ---
 ## 2020
-- [[NIPS](https://arxiv.org/abs/2009.12547)] Causal Intervention for Weakly-Supervised Semantic Segmentation. [[pytorch](https://github.com/ZHANGDONG-NJUST/CONTA)] [__`img.`__] :sunflower:
+- [[NeurIPS](https://arxiv.org/abs/2009.12547)] Causal Intervention for Weakly-Supervised Semantic Segmentation. [[pytorch](https://github.com/ZHANGDONG-NJUST/CONTA)] [__`img.`__] :sunflower:
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Wei_Multi-Path_Region_Mining_for_Weakly_Supervised_3D_Semantic_Segmentation_on_CVPR_2020_paper.html)] Multi-Path Region Mining for Weakly Supervised 3D Semantic Segmentation on Point Clouds. [[tensorflow](https://github.com/plusmultiply/mprm)] [__`point.`__] 
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Weakly_Supervised_Semantic_Point_Cloud_Segmentation_Towards_10x_Fewer_Labels_CVPR_2020_paper.html)] Weakly Supervised Semantic Point Cloud Segmentation: Towards 10x Fewer Labels. [[tensorflow](https://github.com/alex-xun-xu/WeakSupPointCloudSeg)] [__`point.`__] 
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_Learning_Integral_Objects_With_Intra-Class_Discriminator_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2020_paper.html)] Learning Integral Objects with Intra-Class Discriminator for Weakly-Supervised Semantic Segmentation. [[mxnet](https://github.com/js-fan/ICD)] [__`img.`__] :sunflower:
