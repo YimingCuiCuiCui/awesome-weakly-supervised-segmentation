@@ -23,6 +23,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: popular
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Weakly_Supervised_Semantic_Point_Cloud_Segmentation_Towards_10x_Fewer_Labels_CVPR_2020_paper.html)] Weakly Supervised Semantic Point Cloud Segmentation: Towards 10x Fewer Labels. [[tensorflow](https://github.com/alex-xun-xu/WeakSupPointCloudSeg)] [__`point.`__] 
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_Learning_Integral_Objects_With_Intra-Class_Discriminator_for_Weakly-Supervised_Semantic_Segmentation_CVPR_2020_paper.html)] Learning Integral Objects with Intra-Class Discriminator for Weakly-Supervised Semantic Segmentation. [[mxnet](https://github.com/js-fan/ICD)] [__`img.`__] :sunflower:
 - [[CVPR](https://arxiv.org/abs/2005.08104v1)] Single-Stage Semantic Segmentation from Image Labels. [[pytorch](https://github.com/visinf/1-stage-wseg)] [__`img.`__] :sunflower:
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Learning_a_Weakly-Supervised_Video_Actor-Action_Segmentation_Model_With_a_Wise_CVPR_2020_paper.pdf)] Learning a Weakly-Supervised Video Actor-Action Segmentation Model with a Wise Selection [__`img.`__] :sunflower:
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Chang_Weakly-Supervised_Semantic_Segmentation_via_Sub-Category_Exploration_CVPR_2020_paper.html)] Weakly-Supervised Semantic Segmentation via Sub-Category Exploration. [[pytorch](https://github.com/Juliachang/SC-CAM)] [__`img.`__] :sunflower:
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Self-Supervised_Equivariant_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2020_paper.html)] Self-supervised Equivariant Attention Mechanism
 for Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/YudeWang/SEAM)] [__`img.`__] :sunflower:
@@ -40,6 +41,8 @@ for Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/YudeW
 - [[AAAI](https://arxiv.org/abs/1811.10842)] CIAN: Cross-Image Affinity Net for Weakly Supervised Semantic Segmentation. [[mxnet](https://github.com/js-fan/CIAN)] [__`img.`__] :sunflower:
 - [[AAAI](https://www.researchgate.net/publication/342540606_Learning_Saliency-Free_Model_with_Generic_Features_for_Weakly-Supervised_Semantic_Segmentation)] Learning Saliency-Free Model with Generic Features for Weakly-Supervised Semantic Segmentation. [__`img.`__] :sunflower:
 - [[ACMM](https://dl.acm.org/doi/pdf/10.1145/3394171.3413652)] Weakly Supervised Segmentation with Maximum Bipartite Graph Matching. [__`img.`__] :sunflower:
+- [[IJCAI](https://www.ijcai.org/Proceedings/2020/0120.pdf)] Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Embeddings. [__`img.`__] :sunflower:
+- [[ICASSP](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9053384)] Weakly Supervised Semantic Segmentation For Remote Sensing Hyperspectral Imaging. [__`img.`__] :sunflower:
 - [[IJCV](https://arxiv.org/abs/2002.08098)] Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning. [__`img.`__] :sunflower:
 - [[IJCV](https://arxiv.org/abs/1912.11186v1)] A Comprehensive Analysis of Weakly-Supervised Semantic
 Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndonchan/wsss-analysis)] [__`img.`__] :star: :hospital:
