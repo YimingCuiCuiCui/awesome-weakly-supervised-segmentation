@@ -127,9 +127,9 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 - [[ICRA](https://arxiv.org/abs/1610.01238)] Find Your Own Way: Weakly-Supervised Segmentation of Path Proposals for Urban Autonomy. [__`img.`__,__`pan.`__] :sunflower:
 - [[BMVC](https://arxiv.org/abs/1707.05821v1)] DCSP: Discovering Class Specific Pixels for Weakly Supervised Semantic Segmentation. [[tensorflow](https://github.com/arslan-chaudhry/dcsp_segmentation)][__`img.`__] :sunflower:
 - [[BMVC](https://arxiv.org/abs/1705.09052)] Weakly Supervised Semantic Segmentation Based on Web Image Co-segmentation. [[mxnet](https://github.com/ascust/wsscoseg)][__`img.`__] :sunflower:
- [[ACCV](https://arxiv.org/abs/1606.02280)] Semi-Supervised Domain Adaptation for Weakly Labeled Semantic Video Object Segmentation. [__`vid.`__] :sunflower:
+- [[ACCV](https://arxiv.org/abs/1606.02280)] Semi-Supervised Domain Adaptation for Weakly Labeled Semantic Video Object Segmentation. [__`vid.`__] :sunflower:
 - [[TPAMI](https://weiyc.github.io/assets/pdf/stc_tpami.pdf)] STC: A Simple to Complex Framework for Weakly-supervised Semantic Segmentation. [__`img.`__] :star: :sunflower:
-- [[TPAMI](https://arxiv.org/abs/1710.01457)] Learning to Segment Human by WatchingYouTube. [__`vid.`__] :sunflower:
+- [[TPAMI](https://arxiv.org/abs/1710.01457)] Learning to Segment Human by Watching YouTube. [__`vid.`__] :sunflower:
 - [[TPAMI](https://arxiv.org/abs/1708.02459)] Weakly-Supervised Image Annotation and Segmentation with Objects and Attributes. [__`img.`__] :sunflower:
 - [[TMI](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7971941),[arXiv](https://arxiv.org/abs/1701.00794)] Constrained Deep Weak Supervision for Histopathology Image Segmentation. [__`img.`__] :star: :hospital:
 ---
