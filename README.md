@@ -28,6 +28,8 @@ for Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/YudeW
 - [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710341.pdf)]  Weakly Supervised Semantic Segmentation with Boundary Exploration. [__`box.`__] :sunflower:
 - [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720290.pdf)] Box2Seg: Attention Weighted Loss and Discriminative Feature Learning for Weakly Supervised Segmentation. [__`box.`__] :sunflower:
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670664.pdf)] Splitting vs. Merging: Mining Object Regions with Discrepancy and Intersection Loss for Weakly Supervised Semantic Segmentation. [__`img.`__] :sunflower:
+- [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620324.pdf)] Employing Multi-Estimations for Weakly-Supervised Semantic Segmentation. [__`img.`__] :sunflower:
+- [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600426.pdf)] Negative Pseudo Labeling using Class Proportion for Semantic Segmentation in Pathology. [__`img.`__] :hospital:
 - [[ECCV](https://arxiv.org/abs/2007.09397)] Weakly Supervised Instance Segmentation by Learning Annotation Consistent Instances. [__`img.`__,__`ins.`__] :sunflower:
 - [[ECCV](https://arxiv.org/abs/2007.01947)] Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation. [[Caffe](https://github.com/GuoleiSun/MCIS_wsss)][__`img.`__] :sunflower:
 - [[ICLR](https://arxiv.org/abs/1906.06558v2)] Mask Based Unsupervised Content Transfer. [[pytorch](https://github.com/rmokady/mbu-content-tansfer)] [__`img.`__] :sunflower:
