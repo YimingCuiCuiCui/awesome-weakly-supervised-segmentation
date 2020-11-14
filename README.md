@@ -41,6 +41,8 @@ for Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/YudeW
 - [[AAAI](https://www.researchgate.net/publication/342540606_Learning_Saliency-Free_Model_with_Generic_Features_for_Weakly-Supervised_Semantic_Segmentation)] Learning Saliency-Free Model with Generic Features for Weakly-Supervised Semantic Segmentation. [__`img.`__] :sunflower:
 - [[ACMM](https://dl.acm.org/doi/pdf/10.1145/3394171.3413652)] Weakly Supervised Segmentation with Maximum Bipartite Graph Matching. [__`img.`__] :sunflower:
 - [[IJCV](https://arxiv.org/abs/2002.08098)] Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning. [__`img.`__] :sunflower:
+- [[IJCV](https://arxiv.org/abs/1912.11186v1)] A Comprehensive Analysis of Weakly-Supervised Semantic
+Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndonchan/wsss-analysis)] [__`img.`__] :star: :hospital:
 - [[TIP](https://arxiv.org/abs/1904.09092)] Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes. [__`box.`__,__`pan.`__] :sunflower:
 - [[IEEE Access](https://arxiv.org/abs/1910.05475)] SGAN: Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation. [[pytorch](https://github.com/yaoqi-zd/SGAN)] [__`img.`__] :star: :sunflower:
 - [[arXiv](https://arxiv.org/abs/2002.08254)] Weakly Supervised Semantic Segmentation of Satellite Images for Land Cover Mapping -- Challenges and Opportunities. [__`img.`__] :earth_americas:
@@ -82,8 +84,6 @@ for Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/YudeW
 - [[MIA](https://www.sciencedirect.com/science/article/pii/S1361841518306145?via%3Dihub)] Constrained-CNN losses for weakly supervised segmentation. [[pytorch](https://github.com/LIVIAETS/SizeLoss_WSS)][[caffe](https://github.com/meng-tang/rloss)] [__`img.`__] :star: :hospital:
 - [[JURSE](https://arxiv.org/abs/1904.03983)] Weakly Supervised Semantic Segmentation of Satellite Images. [__`img.`__] :earth_americas:
 - [[arXiv](https://arxiv.org/abs/1909.03714)] SSENet: Self-supervised Scale Equivariant Network for Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/YudeWang/SSENet-pytorch)] [__`img.`__] :star: :sunflower:
-- [[arXiv](https://arxiv.org/abs/1912.11186v1)] A Comprehensive Analysis of Weakly-Supervised Semantic
-Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndonchan/wsss-analysis)] [__`img.`__] :star: :hospital:
 - [[arXiv](https://arxiv.org/abs/1905.12190)] Closed-Loop Adaptation for Weakly-Supervised Semantic Segmentation [__`img.`__] :sunflower:
 - [[arXiv](https://arxiv.org/abs/1906.04651)] Gated CRF Loss for Weakly Supervised Semantic Image Segmentation [[pytorch](https://github.com/LEONOB2014/GatedCRFLoss)][__`img.`__] :sunflower:
 - [[arXiv](https://arxiv.org/abs/1904.01749)] Fully Using Classifiers for Weakly Supervised Semantic Segmentation with Modified Cues. [__`img.`__] :sunflower:
