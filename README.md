@@ -107,7 +107,7 @@ Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndon
 - [[ECCV](https://arxiv.org/abs/1808.03575v3)] Weakly- and Semi-Supervised Panoptic Segmentation. [[matlab](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)][__`img.`__,__`ins.`__,__`pan.`__] :star: :sunflower:
 - [[ECCV](https://arxiv.org/abs/1803.09569)] On Regularized Losses for Weakly-supervised CNN Segmentation[__`img.`__] :sunflower:
 - [[BMVC](https://arxiv.org/abs/1807.09169)] CSPN: Convolutional Simplex Projection Network for Weakly Supervised Semantic Segmentation. [[caffe](https://github.com/briqr/CSPN)][__`img.`__] :star: :sunflower:
-- [[GCPR](https://arxiv.org/abs/1807.02001)] Acquire, Augment, Segment & Enjoy: Weakly Supervised Instance Segmentation of Supermarket Products. [__`img.`__,,__`ins.`__] :sunflower:
+- [[GCPR](https://arxiv.org/abs/1807.02001)] Acquire, Augment, Segment & Enjoy: Weakly Supervised Instance Segmentation of Supermarket Products. [__`img.`__,__`ins.`__] :sunflower:
 - [[TPAMI](https://arxiv.org/abs/1706.02189)] Incorporating Network Built-in Priors in Weakly-supervised Semantic Segmentation. [__`img.`__] :sunflower:
 - [[arXiv](https://arxiv.org/abs/1808.01625)] Towards Closing the Gap in Weakly Supervised Semantic Segmentation with DCNNs: Combining Local and Global Models. [__`img.`__] :sunflower:
 - [[arXiv](https://arxiv.org/abs/1810.07050)] Generating Self-Guided Dense Annotations for Weakly Supervised Semantic Segmentation. [__`img.`__] :sunflower:
