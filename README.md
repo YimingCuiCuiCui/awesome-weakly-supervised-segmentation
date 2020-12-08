@@ -35,6 +35,9 @@ for Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/YudeW
 - [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600426.pdf)] Negative Pseudo Labeling using Class Proportion for Semantic Segmentation in Pathology. [__`img.`__] :hospital:
 - [[ECCV](https://arxiv.org/abs/2007.09397)] Weakly Supervised Instance Segmentation by Learning Annotation Consistent Instances. [__`img.`__,__`ins.`__] :sunflower:
 - [[ECCV](https://arxiv.org/abs/2007.01947)] Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation. [[Caffe](https://github.com/GuoleiSun/MCIS_wsss)][__`img.`__] :sunflower:
+- [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540545.pdf)] Domain Adaptive Semantic Segmentation Using Weak Labels. [__`img.`__] :sunflower:
+- [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720290.pdf)]  Box2Seg: Attention Weighted Loss and Discriminative Feature Learning for Weakly Supervised Segmentation. [__`img.`__] :sunflower:
+- [[ECCV](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500766.pdf)]  Semi-supervised Semantic Segmentation via Strong-weak Dual-branch Network. [__`img.`__] :sunflower:
 - [[ICLR](https://arxiv.org/abs/1906.06558v2)] Mask Based Unsupervised Content Transfer. [[pytorch](https://github.com/rmokady/mbu-content-tansfer)] [__`img.`__] :sunflower:
 - [[ICLR](https://arxiv.org/abs/1906.07647)] Weakly Supervised Clustering by Exploiting Unique Class Count. [__`img.`__] :hospital:
 - [[AAAI](https://arxiv.org/abs/1911.08039)] RRM: Reliability Does Matter: An End-to-End Weakly Supervised Semantic Segmentation Approach. [[pytorch](https://github.com/zbf1991/RRM)] [__`img.`__] :star: :sunflower:
@@ -46,7 +49,10 @@ for Weakly Supervised Semantic Segmentation. [[pytorch](https://github.com/YudeW
 - [[IJCV](https://arxiv.org/abs/2002.08098)] Weakly-Supervised Semantic Segmentation by Iterative Affinity Learning. [__`img.`__] :sunflower:
 - [[IJCV](https://arxiv.org/abs/1912.11186v1)] A Comprehensive Analysis of Weakly-Supervised Semantic
 Segmentation in Different Image Domains. [[tensorflow](https://github.com/lyndonchan/wsss-analysis)] [__`img.`__] :star: :hospital:
+- [[TPAMI](https://ieeexplore.ieee.org/document/9193980)]Leveraging Instance-, Image- and Dataset-Level Information for Weakly Supervised Instance Segmentation. [__`img.`__,__`ins.`__] :sunflower:
 - [[TIP](https://arxiv.org/abs/1904.09092)] Weakly Supervised Adversarial Domain Adaptation for Semantic Segmentation in Urban Scenes. [__`box.`__,__`pan.`__] :sunflower:
+- [[TMI](https://arxiv.org/abs/2007.05448)] Weakly Supervised Deep Nuclei Segmentation Using Partial Points Annotation in Histopathology Images. [__`img.`__] :hospital:
+- [[NN](https://arxiv.org/abs/1908.05770)] Discretely-constrained Deep Network for Weakly Supervised Segmentation. [__`img.`__] :sunflower:
 - [[IEEE Access](https://arxiv.org/abs/1910.05475)] SGAN: Saliency Guided Self-attention Network for Weakly and Semi-supervised Semantic Segmentation. [[pytorch](https://github.com/yaoqi-zd/SGAN)] [__`img.`__] :star: :sunflower:
 - [[arXiv](https://arxiv.org/abs/2002.08254)] Weakly Supervised Semantic Segmentation of Satellite Images for Land Cover Mapping -- Challenges and Opportunities. [__`img.`__] :earth_americas:
 - [[arXiv](https://arxiv.org/abs/2001.11207)] Weakly Supervised Instance Segmentation by Deep Community Learning. [__`img.`__,__`ins.`__] :sunflower:
